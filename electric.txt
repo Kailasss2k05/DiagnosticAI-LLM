@@ -1,0 +1,6500 @@
+### Instruction:
+Answer the electrician query
+
+### Input:
+Circuit breaker trips immediately when reset.
+
+### Response:
+Fault: Hard short circuit
+Cause: Live wire touching neutral or ground downstream
+Action: Isolate loads one by one; use clamp meter to find fault branch; check outlets and fixtures for damaged wiring
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Lights flicker when refrigerator compressor starts.
+
+### Response:
+Fault: Voltage sag on shared circuit
+Cause: High inrush current from compressor motor
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+GFCI outlet won't reset after pressing button.
+
+### Response:
+Fault: Ground fault still present or faulty GFCI device
+Cause: Moisture in outlet, damaged device, or downstream fault
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Hot water heater not heating, no error light.
+
+### Response:
+Fault: Open heating element or tripped reset
+Cause: Sediment buildup, element failure, or overtemperature
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet has voltage but device won't power on.
+
+### Response:
+Fault: Low voltage or reversed polarity
+Cause: Loose neutral, wiring error, or corroded terminal
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel buzzing loudly.
+
+### Response:
+Fault: Loose bus bar connection or failing breaker
+Cause: Vibration from poor contact or internal breaker fault
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Smoke detector chirps every 30 seconds.
+
+### Response:
+Fault: Low battery or end-of-life sensor
+Cause: Battery depleted or detector past 10-year service life
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Bathroom exhaust fan runs but moves no air.
+
+### Response:
+Fault: Blocked duct or seized motor
+Cause: Bird nest, disconnected duct, or worn motor bearings
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Kitchen circuit trips only when microwave and toaster run together.
+
+### Response:
+Fault: Circuit overload
+Cause: Combined load exceeds breaker rating
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Three-way switch not working from one location.
+
+### Response:
+Fault: Failed three-way switch or broken traveler wire
+Cause: Switch internal failure or damaged wire in wall
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outdoor outlet dead after heavy rain.
+
+### Response:
+Fault: GFCI tripped due to moisture ingress
+Cause: Non-weatherproof cover or failed gasket
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Dimmer switch makes buzzing noise on LED lights.
+
+### Response:
+Fault: Incompatible dimmer/LED combination
+Cause: Leading-edge dimmer not designed for LED loads
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Half the house lost power, main breaker not tripped.
+
+### Response:
+Fault: One leg of 240V service lost
+Cause: Utility supply fault, loose main lug, or failed service conductor
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Arc fault breaker trips randomly with no apparent load.
+
+### Response:
+Fault: Arcing in wiring or nuisance trip from AFCI sensitivity
+Cause: Loose connection, damaged wire insulation, or incompatible device on circuit
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Motor runs hot and draws high current.
+
+### Response:
+Fault: Single-phasing or overloaded motor
+Cause: Lost phase, low voltage, or mechanical binding
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New outlet installed but won't hold plug securely.
+
+### Response:
+Fault: Worn outlet contacts or wrong outlet type
+Cause: Cheap outlet, back-stabbed wiring causing poor contact, or incorrect amperage rating
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Garage door opener causes lights to flicker.
+
+### Response:
+Fault: Voltage drop on shared circuit
+Cause: Motor inrush or shared circuit with lighting
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet warm to touch with no load plugged in.
+
+### Response:
+Fault: High resistance connection
+Cause: Loose terminal, corroded wire, or back-stab failure
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New ceiling fan hums at all speeds.
+
+### Response:
+Fault: Loose blade, wiring interference, or incompatible dimmer
+Cause: Fan on dimmer switch not rated for motors
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+240V dryer outlet reads only 120V.
+
+### Response:
+Fault: Open leg on 240V circuit
+Cause: Broken wire, tripped double-pole breaker half, or loose terminal
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Breaker feels hot when touching the handle.
+
+### Response:
+Fault: Overloaded circuit or failing breaker
+Cause: Sustained high current or internal breaker fault
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Lights dim when well pump kicks on.
+
+### Response:
+Fault: Excessive voltage drop from pump motor inrush
+Cause: Undersized wire, long run, or weak utility service
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Neutral wire at panel is hot.
+
+### Response:
+Fault: Reversed hot and neutral, or neutral-to-ground fault
+Cause: Wiring error or downstream neutral open with load
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric range one burner not working.
+
+### Response:
+Fault: Failed burner element or burner block
+Cause: Burned-out element or cracked connection block
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Fluorescent light flickers then goes out.
+
+### Response:
+Fault: Failing ballast or end-of-life tube
+Cause: Ballast overheating or tube near end of life
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Subpanel neutral bar shows voltage to ground.
+
+### Response:
+Fault: Neutral-ground bond in subpanel
+Cause: Incorrect bonding in downstream panel
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+HVAC system trips breaker after 10 minutes.
+
+### Response:
+Fault: Thermal overload or refrigerant issue
+Cause: Dirty filter, low refrigerant, failing capacitor, or locked rotor
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet tester shows open ground.
+
+### Response:
+Fault: Missing or broken ground conductor
+Cause: Ungrounded circuit, broken ground wire, or loose terminal
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Smoke from outlet box during use.
+
+### Response:
+Fault: Arcing at loose connection or overloaded outlet
+Cause: Back-stab failure, loose wire nut, or overloaded circuit
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Pool pump runs backwards after wiring.
+
+### Response:
+Fault: Two motor leads swapped on three-phase motor
+Cause: Phase sequence reversed
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Night light stays on during daytime.
+
+### Response:
+Fault: Failed photocell or stuck relay
+Cause: Photocell degraded or contaminated
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Breaker box has burn marks inside.
+
+### Response:
+Fault: Arcing at bus bar or breaker terminal
+Cause: Loose connection or sustained overload
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Junction box wire nut is black and melted.
+
+### Response:
+Fault: High-resistance arcing connection
+Cause: Loose wire in nut, undersized wire nut, or overloaded circuit
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+EV charger Level 2 won't start charging.
+
+### Response:
+Fault: Ground fault, pilot signal error, or GFCI trip
+Cause: Poor ground connection, EVSE fault, or vehicle communication error
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Lights in one room brighten when another appliance turns on.
+
+### Response:
+Fault: Open neutral on circuit or at panel
+Cause: Loose neutral creating voltage divider across 240V legs
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Thermostat display blank despite fresh batteries.
+
+### Response:
+Fault: Missing C-wire or blown 3A fuse on furnace board
+Cause: HVAC control board fuse open or no common wire for smart thermostat
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Whole house surge protector trips after storm.
+
+### Response:
+Fault: MOV elements sacrificed during surge
+Cause: Lightning strike or utility switching transient
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Generator backfeeds into utility lines.
+
+### Response:
+Fault: Improper connection without transfer switch
+Cause: Generator connected directly to panel without isolation
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet reads 90V instead of 120V.
+
+### Response:
+Fault: High resistance in hot conductor or loose connection
+Cause: Corroded terminal, back-stab failure, or undersized wire
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New LED retrofit bulbs cause AFCI breaker to trip.
+
+### Response:
+Fault: LED driver electronics triggering arc detection algorithm
+Cause: High-frequency switching in cheap LED driver misidentified as arc
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Conduit fill exceeds allowable limit, wires too tight.
+
+### Response:
+Fault: Code violation — over 40% conduit fill
+Cause: Too many conductors in conduit for its size
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Service entrance conductors are aluminum with no anti-oxidant compound.
+
+### Response:
+Fault: Potential oxidation at connections
+Cause: Aluminum oxidizes quickly, increasing resistance
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Circuit works but one outlet in the middle of run is dead.
+
+### Response:
+Fault: Open connection at that outlet feeding downstream
+Cause: Broken back-stab, loose pigtail, or damaged wire
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Sump pump trips breaker during heavy rain.
+
+### Response:
+Fault: Motor overload from continuous operation
+Cause: Pump running continuously due to high water table or undersized pump
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wires in attic have brittle, cracked insulation.
+
+### Response:
+Fault: Deteriorated wiring insulation — fire hazard
+Cause: Heat cycling, age, or rodent damage
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+240V air compressor hums but won't start.
+
+### Response:
+Fault: Capacitor failure or single phase loss
+Cause: Start/run capacitor open or one leg of 240V absent
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Exterior light fixture corroded internally.
+
+### Response:
+Fault: Moisture intrusion causing corrosion and potential arcing
+Cause: Failed gasket, crack in fixture, or improper wet-location rating
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric meter spinning rapidly with all breakers off.
+
+### Response:
+Fault: Current draw before main breaker or meter tampering
+Cause: Service entrance theft, meter fault, or defective main breaker
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Baseboard heater one section not heating.
+
+### Response:
+Fault: Open heating element in that section
+Cause: Element burnout or broken connection
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Tripped breaker won't move to reset position.
+
+### Response:
+Fault: Mechanically locked breaker due to sustained fault
+Cause: Severe fault welded contacts or damaged trip mechanism
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Unknown wires in wall with no label or documentation.
+
+### Response:
+Fault: Unidentified conductors — safety concern
+Cause: Previous work undocumented or abandoned circuits
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Spa/hot tub GFCI trips when jets run.
+
+### Response:
+Fault: Ground fault in pump motor or wiring
+Cause: Water ingress to motor windings or damaged cord
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Clothes dryer takes two cycles to dry clothes.
+
+### Response:
+Fault: Heating element partial failure or low voltage
+Cause: One leg of 240V low, partially open element, or blocked vent
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Light switch feels warm after extended use.
+
+### Response:
+Fault: Overloaded switch or high resistance contact
+Cause: Switch rated below load or arcing contacts
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel has double-tapped breakers.
+
+### Response:
+Fault: Code violation — two conductors on one breaker terminal
+Cause: Improper installation
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage between neutral and ground is 8V.
+
+### Response:
+Fault: Voltage drop on neutral under load — acceptable but investigate if high
+Cause: Long run, undersized neutral, or high load
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Solar inverter showing grid fault error.
+
+### Response:
+Fault: Utility voltage or frequency out of range
+Cause: Grid disturbance, anti-islanding protection activated, or wiring fault
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrical panel feels hot on the outside surface.
+
+### Response:
+Fault: High ambient heat or internal overload
+Cause: Overloaded circuits, poor ventilation, or failing components
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Knob and tube wiring found in older home.
+
+### Response:
+Fault: Outdated ungrounded wiring system
+Cause: Pre-1940s installation
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Aluminum branch circuit wiring at outlets.
+
+### Response:
+Fault: Potential overheating at connections — fire risk
+Cause: Aluminum expands and contracts more than copper, loosening connections
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Ceiling light gets very bright then very dim repeatedly.
+
+### Response:
+Fault: Loose neutral creating voltage fluctuation
+Cause: Open or intermittent neutral on circuit
+Action: Turn off power and consult technician
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Tankless water heater shows error code E1.
+
+### Response:
+Fault: No ignition or flow sensor error (brand specific)
+Cause: Low water flow, gas issue, or sensor fault
+Action: Check minimum flow rate; verify gas pressure; consult unit manual for E1 definition; clean flow sensor
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+PV solar system producing less power than expected.
+
+### Response:
+Fault: Shading, soiling, or failed string
+Cause: Panel obstruction, dirty panels, or failed microinverter/optimizer
+Action: Check monitoring data by panel; clean panels; test output of individual microinverters
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric fence energizer not working.
+
+### Response:
+Fault: Failed energizer, broken fence wire, or ground issue
+Cause: Corroded ground rod, cut wire, or energizer failure
+Action: Test energizer with fence tester; verify ground rods; walk fence line for breaks
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlets in bathroom not GFCI protected.
+
+### Response:
+Fault: Code violation — GFCI required within 6 feet of water source
+Cause: Original non-compliant installation
+Action: Install GFCI outlet or GFCI breaker; test for proper operation; document for permit if applicable
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Motor contactor chatters repeatedly.
+
+### Response:
+Fault: Low control voltage or worn contacts
+Cause: Voltage drop on coil circuit, weak spring, or pitted contacts
+Action: Measure coil voltage; clean or replace contacts; check control circuit connections
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage between ground rod and panel ground reads 5V.
+
+### Response:
+Fault: Ground potential difference — possibly normal under load
+Cause: Ground current flowing through earth or poor bonding
+Action: Check for neutral-ground bonds in subpanels; verify main bonding jumper; investigate if persistent
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Emergency exit light won't illuminate on battery backup.
+
+### Response:
+Fault: Dead battery or failed charger circuit
+Cause: Battery past service life or charging circuit open
+Action: Test battery voltage under load; replace battery; verify charger output; replace unit if internal fault
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Neutral wire has burned insulation at splice.
+
+### Response:
+Fault: Overloaded neutral or high resistance splice
+Cause: Undersized neutral, overloaded multi-wire circuit, or loose wire nut
+Action: De-energize; replace damaged conductor section; use properly sized wire nut; verify neutral loading
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New construction rough-in fails inspection for box fill.
+
+### Response:
+Fault: Too many wires/devices in electrical box
+Cause: Incorrect box size for number of conductors and devices
+Action: Calculate box fill per NEC 314.16; replace with larger box or reduce conductors
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage tester lights up on metal water pipe.
+
+### Response:
+Fault: Stray voltage on plumbing — shock hazard
+Cause: Neutral current returning via pipes, or wiring fault near plumbing
+Action: Measure voltage pipe-to-ground; inspect for improper bonding or wiring in contact with pipes
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Recessed light flickers intermittently and randomly.
+
+### Response:
+Fault: Loose connection or thermal cutout cycling
+Cause: Insulation too close to can, thermal protector tripping, or LED incompatibility
+Action: Check insulation clearance (IC vs non-IC); inspect connections in canopy; replace with IC-rated LED fixture
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Three-phase motor runs but vibrates excessively.
+
+### Response:
+Fault: Phase imbalance or mechanical issue
+Cause: Unbalanced voltage, failed winding, or coupling misalignment
+Action: Measure all three phase voltages and currents; check voltage imbalance; inspect coupling and bearings
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Office UPS unit beeps continuously.
+
+### Response:
+Fault: Battery low, overload, or utility power fault
+Cause: Battery failed, overloaded inverter, or input power outside acceptable range
+Action: Check UPS display codes; test battery; reduce load; replace battery if past service life
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Doorbell transformer hums loudly.
+
+### Response:
+Fault: Overloaded transformer or loose laminations
+Cause: Smart doorbell drawing more current than transformer rated, or aging transformer
+Action: Measure transformer output; replace with 16V/30VA rated transformer for smart doorbells
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Landscape lighting timer not activating at correct time.
+
+### Response:
+Fault: Incorrect time setting, failed timer, or power interruption reset
+Cause: Clock drift after power outage or faulty mechanism
+Action: Reset clock; check AM/PM setting; replace timer if mechanism fails to advance
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Fuse in older home panel keeps blowing.
+
+### Response:
+Fault: Overloaded circuit or short circuit
+Cause: Too many devices on circuit or wiring fault
+Action: Calculate total load; add circuit if needed; never oversize fuse; inspect wiring for faults
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wire insulation color coding inconsistent in panel.
+
+### Response:
+Fault: Non-standard wiring — documentation hazard
+Cause: Previous DIY work or pre-code installation
+Action: Use voltage tester to identify conductors; label all wires; use tape-marking convention for re-identified conductors
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outdoor light sensor stays on all day.
+
+### Response:
+Fault: Photocell failed closed or sensor exposed to artificial light
+Cause: Photocell stuck or sensing porch/street light as daylight
+Action: Shield photocell from artificial sources; replace photocell or full fixture
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Industrial PLC control cabinet not powering on.
+
+### Response:
+Fault: Lost control power or blown CPM fuse
+Cause: Fuse open, 24VDC supply failed, or E-stop engaged
+Action: Check control transformer secondary; measure 24VDC power supply; inspect all fuses; verify E-stop reset
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Ground fault in commercial kitchen occurs only when fryer operates.
+
+### Response:
+Fault: Ground fault in fryer heating element or wiring
+Cause: Element or wiring degraded from heat and grease
+Action: Isolate fryer; test element insulation; inspect conduit for grease ingress; replace element if failed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+IR thermography shows hot spot on breaker.
+
+### Response:
+Fault: Loose connection or overloaded breaker
+Cause: High resistance at terminal or sustained excess current
+Action: Shut off circuit; tighten terminal to manufacturer torque spec; verify load is within breaker rating
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Elevator doesn't reach top floor.
+
+### Response:
+Fault: Limit switch not engaged or motor issue
+Cause: Misadjusted top-of-travel limit switch or drive fault
+Action: Refer to elevator contractor — elevator work requires specialized license; do not attempt repairs
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Older cloth-woven wiring found in basement.
+
+### Response:
+Fault: Aged wiring with degraded insulation
+Cause: Pre-1950 rubber-insulated cloth wiring deteriorating
+Action: Test insulation resistance; advise full replacement; do not disturb insulation which may be asbestos
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Plug sparks when inserted into outlet.
+
+### Response:
+Fault: Arcing at outlet contacts or loose wiring
+Cause: Worn outlet contact points or inrush from appliance
+Action: Small spark on insertion is often normal for high-load devices; sustained sparking = replace outlet immediately
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Service panel has double main breakers.
+
+### Response:
+Fault: Non-standard or illegal panel configuration
+Cause: DIY addition of second main or split service
+Action: Inspect for code compliance; panel with six-breaker rule may be grandfathered; consult AHJ
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Lights brighten when large motor turns off.
+
+### Response:
+Fault: Load rejection voltage rise
+Cause: Utility voltage regulator response delay or generator governor lag
+Action: Check voltage regulation; on generator systems adjust governor response; utility issue requires them to investigate
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+240V outlet tests correct but welder won't arc.
+
+### Response:
+Fault: Insufficient current capacity or connection resistance
+Cause: Wire undersized for welder amperage or long run
+Action: Check wire gauge vs welder rated amps; calculate voltage drop; upgrade wire or shorten run
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet in garage has no ground, house built in 1965.
+
+### Response:
+Fault: Ungrounded outlet in damp/vehicle location
+Cause: Pre-grounding era wiring
+Action: Install GFCI outlet and label "No Equipment Ground"; this is NEC compliant alternative
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Motion sensor light activates randomly at night with no movement.
+
+### Response:
+Fault: Sensitivity too high, insects, or RF interference
+Cause: Small animals, insects near sensor, or wind moving vegetation
+Action: Reduce sensitivity; adjust range; reposition sensor; check for heat sources in view
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric oven element glows orange but one section dark.
+
+### Response:
+Fault: Partial element failure
+Cause: Internal break in element at one section
+Action: Replace bake or broil element; verify correct wattage replacement; check terminal block for arcing
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage drop excessive on long extension cord to tools.
+
+### Response:
+Fault: Undersized cord for length and load
+Cause: Too small AWG over long distance creates high resistance
+Action: Use heavier gauge cord (12AWG for long runs); shorten cord or run permanent circuit
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Generator won't produce voltage when loaded.
+
+### Response:
+Fault: Failed AVR (Automatic Voltage Regulator) or lost residual magnetism
+Cause: AVR failure, capacitor failure, or demagnetized rotor
+Action: Flash rotor field with 12V battery; test AVR; replace capacitor on single-phase generators
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wire in outdoor conduit is wet inside.
+
+### Response:
+Fault: Water infiltration into conduit
+Cause: Low point without drain, conduit seal failure, or condensation
+Action: Install drain/vent fittings at low points; seal conduit entries; use watertight fittings; dry conductors before re-energizing
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Street light stays on 24 hours.
+
+### Response:
+Fault: Failed photocell (failed-on)
+Cause: Photocell stuck in night mode
+Action: Replace twist-lock photocell; verify correct voltage rating of replacement
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage reads 0V between hot and neutral but 120V hot to ground.
+
+### Response:
+Fault: Open neutral between source and meter point
+Cause: Broken neutral wire, loose neutral at panel or outlet
+Action: Locate open neutral; check wire nut and terminal connections; repair neutral continuity
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Power quality meter shows high harmonic distortion.
+
+### Response:
+Fault: Nonlinear loads causing harmonic pollution
+Cause: VFDs, switching power supplies, and LED drivers generating harmonics
+Action: Install line reactor or harmonic filter; derate neutral conductor for third-harmonic currents
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Two hot wires connected to same bus in 120V subpanel.
+
+### Response:
+Fault: 240V circuit wired as single-phase — potential shock hazard
+Cause: Incorrect wiring of two-pole breaker loads
+Action: Verify circuit intent; ensure 240V loads use dedicated two-pole breaker; rewire as needed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Chandelier with 12 candelabra bulbs frequently blows bulbs.
+
+### Response:
+Fault: Overvoltage or high-voltage transients
+Cause: Utility overvoltage or voltage spikes stressing bulb filaments
+Action: Check supply voltage; install whole-house surge protector; switch to LED candelabra bulbs
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Residential 200A panel fed with 150A meter base.
+
+### Response:
+Fault: Undersized metering equipment for panel rating
+Cause: Upgrade to 200A panel without upgrading meter base
+Action: Contact utility to upgrade meter base; do not exceed meter base rating
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Control wiring in panel corroded green.
+
+### Response:
+Fault: Copper oxidation from moisture ingress
+Cause: Condensation, roof leak, or humid environment
+Action: Clean terminals with contact cleaner; apply dielectric grease; find and eliminate moisture source; replace corroded wires
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Neon sign flickers but transformer tests fine.
+
+### Response:
+Fault: Gas leak in tube, electrode failure, or loose electrode connection
+Cause: Cracked tube allowing air in or electrode failing
+Action: Inspect tube for cracks; check electrode connections; re-gas or replace tube if needed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Isolated ground outlet measures voltage between IG pin and panel ground.
+
+### Response:
+Fault: IG conductor not run back to main panel separately
+Cause: IG terminated at first junction rather than back to main neutral-ground bond
+Action: Run isolated ground directly to main panel ground bar; do not connect to any subpanel ground bar
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Resistive load bank shows unbalanced phase currents.
+
+### Response:
+Fault: Unequal load distribution across phases
+Cause: Mismatched load bank elements or connection error
+Action: Measure each element resistance; replace mismatched elements; verify balanced connection
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+HVAC disconnect switch handle hot.
+
+### Response:
+Fault: High resistance contact or overloaded disconnect
+Cause: Loose blade connection or disconnect undersized for load
+Action: De-energize; inspect and clean blade contacts; verify disconnect ampacity matches HVAC nameplate
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet behind refrigerator is a two-prong ungrounded type.
+
+### Response:
+Fault: Ungrounded outlet in kitchen — code violation for modern appliances
+Cause: Older wiring
+Action: Replace with GFCI type labeled "No Equipment Ground" or run ground wire if possible
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Shop light HID fixture won't restrike after brief outage.
+
+### Response:
+Fault: Hot-restrike issue with HID lamp
+Cause: HID lamps cannot restrike immediately when hot — normal behavior
+Action: Wait 5-10 minutes for lamp to cool; or install HID fixture with hot-restrike ballast; or switch to LED
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Utility revenue meter running backwards.
+
+### Response:
+Fault: Solar backfeed or incorrect meter type
+Cause: Net-metered solar or meter installed backwards
+Action: Verify solar interconnection agreement; confirm bidirectional net meter installed; contact utility if no solar
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Neutral wire overheats on multi-wire branch circuit.
+
+### Response:
+Fault: Both hots on same phase — doubled neutral current
+Cause: MWBC requires hots on opposite phases; same phase doubles current on shared neutral
+Action: Move one breaker to opposite phase; use handle-tied two-pole breaker; neutral carries zero current when balanced
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Smoke detector triggers when no smoke is present.
+
+### Response:
+Fault: Nuisance alarm from dust, steam, or insects
+Cause: Dirty ionization chamber, steam from shower/cooking, or insect inside unit
+Action: Clean detector with compressed air; relocate away from kitchen/bath; replace if still triggering
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel breakers are Federal Pacific Stab-Lok brand.
+
+### Response:
+Fault: Documented risk of breaker failure to trip
+Cause: Defective design — breakers may not trip on overload
+Action: Inform owner of known safety issue; recommend full panel replacement; do not add loads
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Security camera keeps rebooting.
+
+### Response:
+Fault: Insufficient PoE power or voltage drop on long cable run
+Cause: Long cable run dropping voltage below camera minimum
+Action: Measure PoE voltage at camera end; use PoE switch with sufficient wattage per port; shorten run or use PoE extender
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Three-phase motor starts then trips overload immediately.
+
+### Response:
+Fault: Overload relay set too low or motor drawing excessive current
+Cause: Overload set below FLA, mechanical bind, or motor fault
+Action: Set overload to 1.15x FLA; check mechanical load; test motor insulation; verify voltage balance
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wiring insulation damaged by rodents in attic.
+
+### Response:
+Fault: Compromised wire insulation — fire and shock hazard
+Cause: Rodent gnawing through plastic insulation
+Action: De-energize circuits; inspect full run; replace damaged sections; install rodent deterrent; repair in conduit if re-running
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Interlock between two panels not preventing simultaneous energization.
+
+### Response:
+Fault: Failed mechanical interlock on generator transfer panel
+Cause: Interlock worn, misaligned, or bypassed
+Action: Inspect and repair mechanical interlock; test both positions; never bypass — dual energization is life-threatening
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Recessed lighting in insulated ceiling flickers and shuts off.
+
+### Response:
+Fault: Thermal cutout tripping on non-IC rated fixture
+Cause: Insulation contact raising fixture temperature above limit
+Action: Remove insulation from contact; replace with IC-rated (Insulation Contact) fixtures; seal air gaps
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Microwave trips breaker but only on high power setting.
+
+### Response:
+Fault: Circuit at or over capacity on full magnetron power
+Cause: Microwave drawing full rated current on shared circuit
+Action: Install dedicated 20A circuit for microwave; check wire gauge is 12 AWG
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Arc fault breaker trips when vacuum cleaner runs.
+
+### Response:
+Fault: Motor brush sparking triggering arc detection
+Cause: Series arc detection in AFCI triggered by universal motor brush arc
+Action: Try AFCI outlet instead of breaker; try different vacuum or motor brush replacement; confirm no actual arc hazard
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric baseboard thermostat clicks but heater doesn't heat.
+
+### Response:
+Fault: Open element or broken circuit at thermostat
+Cause: Failed element or thermostat contacts not passing current
+Action: Test voltage across thermostat when calling for heat; test element continuity; replace failed component
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Water heater element tests open on ohmmeter.
+
+### Response:
+Fault: Failed heating element
+Cause: Element burned out
+Action: Shut off water and power; drain tank; replace element with correct wattage and ohm rating; refill before energizing
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Service disconnect located inside building more than 10 feet from meter.
+
+### Response:
+Fault: Possible code violation depending on jurisdiction
+Cause: Long service entrance conductor run inside building
+Action: Verify local AHJ requirements; some allow this with proper protection; outdoor disconnect may be required
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+GFCI breaker trips when nothing is connected.
+
+### Response:
+Fault: Leakage current on circuit wiring or GFCI breaker failure
+Cause: Aged or wet wiring with low insulation resistance, or faulty breaker
+Action: Test insulation resistance; disconnect all devices; replace GFCI breaker; test circuit with Megger
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric motor runs in wrong direction.
+
+### Response:
+Fault: Phase rotation reversed (3-phase) or capacitor wired wrong (single phase)
+Cause: Phase sequence incorrect at motor terminals
+Action: Three-phase: swap any two leads; single-phase PSC: swap start winding leads or capacitor connection
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage between two hot wires reads 208V instead of 240V.
+
+### Response:
+Fault: System is 208V wye, not 240V delta
+Cause: Commercial building with 120/208V three-phase wye service
+Action: Verify equipment is rated for 208V; 240V equipment may not perform correctly on 208V
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Night light wired backwards — hot on wide prong.
+
+### Response:
+Fault: Reversed polarity
+Cause: Wiring error — hot and neutral swapped
+Action: De-energize; rewire correctly; hot to narrow prong (smaller slot); neutral to wide prong
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New ceiling fan light kit not working but fan works.
+
+### Response:
+Fault: Fan-light switch disconnected or blue wire not connected
+Cause: Blue (light) wire from fan not connected to switch leg
+Action: Connect blue wire to switched hot for light; verify switch controls light separately if applicable
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Water softener salt bridge causing pump issue.
+
+### Response:
+Fault: This is a plumbing/mechanical issue, not electrical
+Cause: Salt bridging in brine tank
+Action: Outside electrical scope; advise customer to consult plumber or appliance tech
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel ground bar shows voltage to earth ground.
+
+### Response:
+Fault: Ground bar energized — serious hazard
+Cause: Ground conductor connected to hot, or neutral carrying current on ground bar
+Action: STOP — do not touch panel; de-energize at utility or main; trace all ground connections for fault
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Motor VFD display shows OC (overcurrent) fault.
+
+### Response:
+Fault: VFD overcurrent trip
+Cause: Acceleration too fast, mechanical overload, or motor fault
+Action: Increase acceleration ramp time; check motor and load for binding; verify motor current rating matches VFD setting
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Light switch arcs visibly when operated.
+
+### Response:
+Fault: Worn switch contacts or oversized load
+Cause: Load at or above switch rating, or switch worn
+Action: Replace switch immediately; verify load within rating; consider relay for heavy loads
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New house outlet fails tester — open hot.
+
+### Response:
+Fault: Hot wire not connected at outlet or upstream
+Cause: Loose screw terminal or missed connection
+Action: De-energize; check hot terminal on outlet; trace back to junction if outlet wired correctly
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wire nuts in junction box are loose.
+
+### Response:
+Fault: Poor connection — arcing and fire hazard
+Cause: Incorrect wire nut size, insufficient twist, or wire pulled out
+Action: De-energize; strip wires fresh; twist conductors together first; apply correct size wire nut; verify secure pull
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Transformer produces correct no-load voltage but drops under load.
+
+### Response:
+Fault: Undersized transformer or excessive load
+Cause: Load exceeds transformer VA rating
+Action: Calculate total load in VA; replace with adequately rated transformer
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+RV park pedestal outlet not working.
+
+### Response:
+Fault: Tripped GFCI, breaker, or damaged receptacle
+Cause: Previous user fault or weather damage
+Action: Reset GFCI and pedestal breaker; test with known-good device; replace receptacle if damaged
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Bathroom light and exhaust fan on same switch — want them separate.
+
+### Response:
+Fault: Not a fault — wiring modification request
+Cause: Original installation combined on one switch
+Action: Install two-gang box; run separate switch leg to fan; verify adequate wire in ceiling box
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Motion light flickers in cold weather.
+
+### Response:
+Fault: LED driver or photocell affected by low temperature
+Cause: Below-rated temperature for driver or CFL-type lamp failing cold start
+Action: Replace with cold-rated LED or ensure fixture rated for ambient temperature
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Static shock from touching metal HVAC duct.
+
+### Response:
+Fault: Duct not bonded to ground
+Cause: Metal duct not electrically continuous to building ground
+Action: Bond duct to grounding system with green insulated wire; check for static buildup source
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Service entrance wire insulation cut by meter can edge.
+
+### Response:
+Fault: Mechanical damage to service entrance conductors
+Cause: Sharp edge of meter can or conduit fitting cutting into insulation
+Action: De-energize with utility assistance; protect conductor with rubber bushing; re-route if needed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel labeled "40 circuit" but only 32 spaces available.
+
+### Response:
+Fault: Mislabeled or tandem breaker capacity issue
+Cause: Manufacturer rating includes tandem breaker positions; not all positions accept tandems
+Action: Check panel interior for tandem-allowed position sticker; use tandems only in marked positions
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Commercial building voltage reads 480V phase to phase.
+
+### Response:
+Fault: No fault — 480V wye or delta service
+Cause: Standard commercial three-phase voltage
+Action: Verify equipment rated for 480V; use transformers to step down to 120/240V for receptacles
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Lightning arrester at utility pole sparking during storm.
+
+### Response:
+Fault: Arrester operating normally or failing
+Cause: Surge from lightning; sparking may indicate arrester sacrificing itself
+Action: Keep clear; inspect after storm; replace arresters that show physical damage after event
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric vehicle charger circuit needs to be 80% derated.
+
+### Response:
+Fault: Not a fault — NEC continuous load rule
+Cause: EVSE is continuous load >3 hours; circuit must be 125% of charger output current
+Action: 48A charger requires 60A circuit; 32A charger requires 40A circuit; wire and breaker accordingly
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Breaker trips when water pump motor starts in winter.
+
+### Response:
+Fault: High inrush from cold motor or seized bearings
+Cause: Viscous fluid, low temperature reducing motor efficiency, or failing bearings
+Action: Check motor and pump for binding; verify capacitor on single-phase; check LRA vs breaker rating; consider soft-start
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wire pull impossible — conduit packed too tight.
+
+### Response:
+Fault: Conduit fill exceeded or pull too long without junction box
+Cause: Too many conductors or bends in run
+Action: Calculate conduit fill; add pull box every 360 degrees of bends; use wire pulling lubricant
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Test equipment shows negative power factor.
+
+### Response:
+Fault: Leading power factor from capacitive load
+Cause: Capacitors, lightly loaded motors, or power factor correction bank overcompensating
+Action: Reduce capacitor bank; review power factor correction sizing; verify meter connections are correct
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Junction box filled with expanding foam.
+
+### Response:
+Fault: Code violation — box must remain accessible
+Cause: Previous DIY attempt to seal
+Action: Remove foam carefully; restore junction box access; never seal electrical boxes
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Insulation on wires in attic melted together.
+
+### Response:
+Fault: Thermal damage from overload or excessive heat
+Cause: Overloaded circuit or heat source near wiring
+Action: De-energize; replace all affected wiring; investigate heat source; correct overload
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet has correct voltage but USB charger gets hot.
+
+### Response:
+Fault: Charger issue, not outlet fault
+Cause: Faulty charger circuitry or counterfeit charger
+Action: Replace with UL-listed charger; advise customer on charger quality; verify outlet voltage is not overvoltage
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Stairway lights controlled by three switches not working properly.
+
+### Response:
+Fault: Incorrect wiring of intermediate switch in 4-way circuit
+Cause: 4-way switch wired incorrectly or failed
+Action: Verify 4-way switch wiring: two travelers in, two travelers out; swap if necessary; replace switch
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Power factor meter shows 0.60 on motor.
+
+### Response:
+Fault: Low power factor — motor running underloaded
+Cause: Motor oversized for application
+Action: Correct motor size to application; add power factor correction capacitor; advise on utility power factor penalties
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wiring buried in concrete without conduit.
+
+### Response:
+Fault: Code violation unless using UF or direct burial rated wire
+Cause: Improper wire type or no conduit protection
+Action: Verify wire type; UF cable is permitted direct burial but not in concrete in most cases; conduit required in slab
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Automatic transfer switch doesn't switch when power fails.
+
+### Response:
+Fault: ATS sensing circuit failure or generator not ready
+Cause: Voltage sensing relay failed, generator not at voltage/frequency, or ATS mechanism stuck
+Action: Test generator output; check ATS sensing circuit; test ATS manually; service or replace ATS
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Sparks when plugging in outdoor extension cord.
+
+### Response:
+Fault: Arcing at outlet contacts or load already on cord
+Cause: Appliance on cord was on before plugging in, or worn outlet
+Action: Turn off devices before plugging in; replace outlet if sparking is excessive
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Bus bars in panel are different colors — copper and silver.
+
+### Response:
+Fault: Possible mixed aluminum and copper bus bars — inspect carefully
+Cause: Panel design may use tinned copper or aluminum bars
+Action: Check panel spec; ensure proper torque on all terminals; aluminum buses require anti-oxidant compound
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Breaker panel wet inside after roof repair.
+
+### Response:
+Fault: Water intrusion into live electrical panel
+Cause: Roof work disturbed weather seal on service entrance or conduit
+Action: DANGER — de-energize at utility; do not open panel; dry completely before restoration; inspect for damage
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Underground cable to detached garage cut by landscaper.
+
+### Response:
+Fault: Direct physical damage to buried cable
+Cause: Excavation without call before you dig
+Action: Locate and expose damage; splice with appropriate weatherproof junction box if allowed; preferably replace full run in conduit
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel has mixed breaker brands.
+
+### Response:
+Fault: Potential code violation — breakers must be listed for panel
+Cause: Previous work used non-listed breakers
+Action: Verify breaker listing for panel make/model; replace non-listed breakers with approved types
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage at load end of run is 108V.
+
+### Response:
+Fault: Excessive voltage drop on circuit
+Cause: Undersized wire for length or load
+Action: Measure source voltage; calculate voltage drop; upgrade wire gauge or reduce run length
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Control panel with unknown relay functions — no documentation.
+
+### Response:
+Fault: Undocumented control system — safety risk
+Cause: Original documentation lost or never provided
+Action: Do not operate blindly; trace each relay function; create documentation; label all components before work
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Breaker for electric stove is 40A but wire is 10 AWG.
+
+### Response:
+Fault: Overcurrent protection exceeds wire rating
+Cause: Undersized wire for breaker — fire hazard
+Action: Replace wire with 8 AWG for 40A or downsize breaker to 30A if range allows; never have wire smaller than breaker
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet box temperature too high — plastic feels soft.
+
+### Response:
+Fault: Excessive heat at connection — imminent fire hazard
+Cause: Arcing connection or overloaded circuit
+Action: Immediately de-energize; replace box, outlet, and any damaged wiring; investigate cause before restoring
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Conductor pulled from wire nut with no resistance.
+
+### Response:
+Fault: Poor connection — conductor not properly secured
+Cause: Wire not properly inserted or wire nut too large
+Action: Strip wire fresh; re-twist conductors; apply correct size wire nut; verify firm pull on each conductor
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Smart home hub loses power randomly.
+
+### Response:
+Fault: Intermittent power supply or loose outlet connection
+Cause: Outlet contacts worn, GFCI upstream cycling, or power supply failing
+Action: Test outlet voltage under load; replace outlet; test power supply; try UPS for hub
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric water heater trips 30A breaker repeatedly.
+
+### Response:
+Fault: Element partially shorted or thermostat stuck
+Cause: Failed thermostat holding elements on simultaneously
+Action: Test both elements and both thermostats; replace failed thermostat; verify one element heats at a time
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New construction light fixture not grounded in plastic box.
+
+### Response:
+Fault: Plastic box provides no ground path for metal fixture
+Cause: Installer used plastic box with metal fixture requiring ground
+Action: Use metal box for metal fixtures or run ground wire separately; NMB cable ground must terminate at fixture
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Unidentified circuit in panel — unknown purpose.
+
+### Response:
+Fault: Undocumented circuit — safety and liability concern
+Cause: Undocumented addition or abandoned circuit
+Action: Use tone tracer to identify; energize one at a time; label all circuits; verify safe termination
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Water coming from light fixture during rain.
+
+### Response:
+Fault: Roof leak channeling water through electrical fixture
+Cause: Failed roof flashing or cracked ceiling allowing water into fixture
+Action: DANGER — de-energize circuit immediately; contact roofer; do not use fixture until completely dry and inspected
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage between ground and neutral at outlet is 3V under load.
+
+### Response:
+Fault: Small neutral-ground voltage under load — may be acceptable
+Cause: Normal voltage drop on neutral conductor
+Action: If under 2-3V, generally acceptable; above 5V investigate neutral impedance; verify neutral connections
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New outlet won't fit in old 2-inch deep metal box.
+
+### Response:
+Fault: Box too shallow for modern outlet — box fill issue
+Cause: Old single-gang box depth insufficient for current device with wiring
+Action: Replace with deeper box; use box extender if wall allows; recalculate box fill
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Fluorescent light starts briefly then flickers out repeatedly.
+
+### Response:
+Fault: Failing starter (older T8/T12) or ballast going bad
+Cause: Rapid cycle or starter failure
+Action: Replace starter first (pre-heat ballast); if continues replace ballast or convert to LED
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Photovoltaic combiner box fuse blown.
+
+### Response:
+Fault: String fault — ground fault or overcurrent in PV string
+Cause: Module failure, ground fault, or shading-induced mismatch
+Action: Use isolated PV test meter to identify faulted string; test insulation resistance of string; replace module if failed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Light circuit has 15A breaker but wire is 14 AWG — correct?
+
+### Response:
+Fault: No fault — correct combination
+Cause: 14 AWG is rated for 15A circuits
+Action: Verify wire throughout circuit is 14 AWG; confirm no 20A devices on 15A circuit
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Control panel door latch gives mild shock when touched.
+
+### Response:
+Fault: Stray voltage on enclosure — grounding issue
+Cause: Ground conductor missing or loose inside panel; phase wire touching enclosure
+Action: De-energize; inspect for wires touching enclosure; verify ground bus connected to enclosure; restore ground
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Generator running but utility transfer not switching.
+
+### Response:
+Fault: ATS time delay not expired or generator not at required voltage/frequency
+Cause: Time delay relay still counting or generator underfrequency
+Action: Measure generator output; wait for time delay; check ATS exercise settings; test ATS relay
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Tenant installed outlet without permit.
+
+### Response:
+Fault: Unpermitted electrical work — possible code violation
+Cause: DIY or unlicensed work
+Action: Inspect work quality; verify correct wire gauge, box fill, and device; advise owner; recommend permit if jurisdiction requires
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Doorbell rings randomly with no one pressing button.
+
+### Response:
+Fault: Stuck button, moisture in button, or RF interference from smart doorbell
+Cause: Contact corrosion holding circuit closed or wireless signal interference
+Action: Disconnect button and test; replace corroded button; check wireless settings on smart doorbell
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Shop light ignores wall switch — always on.
+
+### Response:
+Fault: Bypass of switch wiring or switch wired in neutral instead of hot
+Cause: Common DIY error — neutral switched instead of hot
+Action: Verify switch interrupts hot conductor, not neutral; rewire if neutral is switched
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+House voltage is 125V — acceptable?
+
+### Response:
+Fault: No fault — within acceptable range
+Cause: Utility delivers slightly above nominal for regulation
+Action: ANSI C84.1 allows 114-126V; 125V is normal; no action needed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Two circuits share neutral in panel without handle tie.
+
+### Response:
+Fault: Multi-wire branch circuit without required handle tie
+Cause: Code violation — both circuits must be on opposite phases and tied
+Action: Verify hots on opposite phases; install handle-tied or two-pole breaker for MWBC safety
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outdoor junction box has no weatherproof cover.
+
+### Response:
+Fault: Code violation — outdoor boxes require weatherproof covers
+Cause: Cover missing or removed
+Action: Install weatherproof cover rated for wet or damp location as applicable
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Air conditioner hums but fan doesn't run.
+
+### Response:
+Fault: Failed run capacitor or locked fan motor
+Cause: Capacitor open or shorted, or motor bearing seized
+Action: Test capacitor with capacitance meter; replace if out of spec; check motor rotation by hand; replace if seized
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+House has 60A service — adding EV charger?
+
+### Response:
+Fault: Insufficient service for EV charger addition
+Cause: 60A service already at capacity with existing loads
+Action: Upgrade to 200A service before adding Level 2 EVSE; calculate total load after upgrade
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wiring stapled too tightly, deforming cable jacket.
+
+### Response:
+Fault: Mechanical damage to NM cable — possible insulation damage
+Cause: Staple driven too deep
+Action: Inspect and remove damaged staples; inspect insulation; replace cable if insulation is compromised
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Transformer hums and feels warm.
+
+### Response:
+Fault: Slight transformer hum is normal; warm is normal under load
+Cause: Core magnetostriction causes hum; heat is from losses
+Action: Ensure ventilation clearances; if excessively hot check if overloaded; transformer should be warm, not hot
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Old pushmatic breaker won't stay on.
+
+### Response:
+Fault: Worn pushmatic breaker mechanism
+Cause: Aging pushmatic breakers lose their latching ability
+Action: Replace breaker — pushmatic replacements available but panel replacement preferred due to age
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Megger shows insulation resistance less than 1 Megohm.
+
+### Response:
+Fault: Degraded insulation — leakage current risk
+Cause: Moisture, heat damage, aging, or physical damage to insulation
+Action: Dry out conductors; investigate source of degradation; replace wiring if below 1 MΩ at rated voltage
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrician can't find source of burning smell in walls.
+
+### Response:
+Fault: Unknown wiring fault possibly hidden
+Cause: Could be loose connection, overloaded wire, or foreign material
+Action: Use thermal camera to scan wall surfaces; turn off circuits one at a time; listen for crackling sounds; cut into wall if necessary
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Light switch has no ground — modern dimmer requires one.
+
+### Response:
+Fault: Missing ground for modern dimmer installation
+Cause: Old wiring without ground conductor
+Action: Run ground wire to nearest grounded metal box; use no-neutral compatible dimmer; check if GFCI protection satisfies local code
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Phase voltage unbalanced — A: 118V, B: 124V, C: 121V.
+
+### Response:
+Fault: Voltage unbalance — acceptable if under 2%
+Cause: Unequal load distribution or utility issue
+Action: Calculate percent unbalance; above 2% investigate utility side or load balancing; motors derate above 1%
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Circuit breaker label doesn't match actual circuit location.
+
+### Response:
+Fault: Mislabeled panel directory — safety concern
+Cause: Previous work unlabeled or label error
+Action: Systematically identify all circuits; update directory; label at panel and junction boxes
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outdoor string lights keep tripping GFCI.
+
+### Response:
+Fault: Accumulated leakage current from multiple lamp sockets
+Cause: Each lamp socket has small leakage; combined exceeds GFCI 5mA threshold
+Action: Reduce number of lights on one GFCI; use GFCI with higher leakage threshold if permitted; replace wet/damaged lamp sockets
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Fluorescent ballast hums but no light output.
+
+### Response:
+Fault: Failed lamp or lamp not seated
+Cause: Burned out lamp, lamp pins not making contact, or ballast driving failed lamp
+Action: Replace lamp first; re-seat lamp pins firmly; replace ballast if new lamp doesn't light
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wiring in attic not in conduit and exposed to foot traffic area.
+
+### Response:
+Fault: NM cable requires physical protection in accessible areas
+Cause: Cable run in area subject to physical damage
+Action: Run cable in conduit through accessible walkway areas; protect with guard strips
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Breaker panel near water heater — is it OK?
+
+### Response:
+Fault: Potential code violation — panels require working space clearances
+Cause: Water heater may encroach on required 30" wide working space
+Action: Verify NEC 110.26 clearances — 30" wide, 36" deep, 6.5' high working space; relocate if encroached
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage between two ground rods is 4V.
+
+### Response:
+Fault: Ground potential rise — investigate
+Cause: Fault current returning via earth, or poor ground electrode system
+Action: Check for neutral-to-earth current; verify multiple ground electrodes are bonded together; measure during off-peak
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Swimming pool light GFCI trips every time light is turned on.
+
+### Response:
+Fault: Ground fault in wet niche fixture or cable
+Cause: Damaged fixture seal, deteriorated cable, or water in conduit
+Action: Inspect niche and fixture; test dry; replace fixture if water-contaminated; dry conduit; Megger test cable
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric gate motor trips breaker on cold mornings only.
+
+### Response:
+Fault: High starting current in cold motor or hydraulic system
+Cause: Cold grease or fluid increases mechanical load at startup
+Action: Check motor capacitor; verify heater pad on control box; adjust slow-start settings if available
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet reads correct voltage but device keeps resetting.
+
+### Response:
+Fault: Voltage sags or transients not visible with basic meter
+Cause: Momentary voltage dips, frequency issues, or harmonic distortion
+Action: Use power quality analyzer; identify source of disturbance; install UPS or power conditioner
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel has no main breaker.
+
+### Response:
+Fault: Panel requires main breaker or must be within sight of service entrance
+Cause: Old installation or split-bus panel design
+Action: Split-bus panels may be grandfathered; verify six-handle rule compliance; recommend upgrade
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Old cloth wiring has no ground — owner wants ground outlets.
+
+### Response:
+Fault: Ungrounded system with modern outlet request
+Cause: Pre-1962 construction without grounding conductors
+Action: Install GFCI outlets labeled "No Equipment Ground"; run new grounded circuit as alternative
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Compressor motor gets hot after 30 minutes of run time.
+
+### Response:
+Fault: Insufficient cooling, overload, or failing motor
+Cause: Dirty motor vents, high ambient temperature, or overloaded duty cycle
+Action: Clean motor vents; verify duty cycle compliance; check current draw; measure winding resistance
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wire pulled out of breaker terminal under load — arced.
+
+### Response:
+Fault: Loose breaker terminal connection
+Cause: Breaker not properly torqued at installation
+Action: DANGER — de-energize panel; allow arc damage to cool; inspect bus and breaker for damage; replace damaged breaker; torque to spec
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Residential panel ground bar has too many wires per hole.
+
+### Response:
+Fault: Code violation — one conductor per ground terminal unless listed for multiple
+Cause: Multiple grounds crammed into single bar hole
+Action: Check panel listing; install additional ground bars if needed; use only listed multi-conductor terminals
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Irrigation system controller shows error — no power to zones.
+
+### Response:
+Fault: Blown 1A fuse in controller or transformer failed
+Cause: Solenoid short or overload blew internal fuse
+Action: Check and replace controller fuse; test solenoid resistance (20-60 ohm normal); replace shorted solenoid
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New LED driver flickers at 50Hz — visible strobe effect.
+
+### Response:
+Fault: Poor LED driver with high flicker index
+Cause: No-name driver without flicker-free filtering
+Action: Replace with flicker-free driver; use drivers with <5% flicker index for task lighting
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Metal conduit is energized — shows voltage to ground.
+
+### Response:
+Fault: Energized raceway — shock hazard
+Cause: Phase wire touching conduit inside due to insulation damage or improper termination
+Action: DANGER — de-energize all circuits in conduit; inspect each conductor; repair damaged insulation
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New breaker doesn't click into bus securely.
+
+### Response:
+Fault: Wrong breaker type for panel or damaged bus tab
+Cause: Non-compatible breaker brand/type or bent bus stab
+Action: Use only listed breakers for panel; inspect bus stab; replace bus or panel if damaged
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrician finds two different wire gauges spliced together on same circuit.
+
+### Response:
+Fault: Potential code violation — small conductor sets current limit
+Cause: Circuit modified without changing full wire run
+Action: Smallest conductor sets ampacity; downsize breaker to smallest wire in circuit or rewire to uniform gauge
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Occupancy sensor light won't turn off after room is empty.
+
+### Response:
+Fault: Sensitivity set too high or sensor detecting air movement
+Cause: HVAC draft triggering PIR sensor repeatedly
+Action: Reduce sensitivity; rotate sensor away from HVAC vents; set timeout to minimum; replace with ultrasonic type
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Utility transformer pole-mounted blowing fuse repeatedly.
+
+### Response:
+Fault: Fault on secondary side or transformer overloaded
+Cause: Customer-side fault feeding through to primary fuse
+Action: Contact utility; de-energize customer's service; identify and clear fault; utility replaces fuse
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Power strip used as permanent wiring solution.
+
+### Response:
+Fault: Code violation — power strips not for permanent wiring
+Cause: Insufficient outlets for equipment
+Action: Install additional outlets; power strips permitted only as extension for equipment use, not permanent wiring
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Romex stapled more than 4.5 feet apart in ceiling.
+
+### Response:
+Fault: Code violation — NM cable must be supported every 4.5 feet
+Cause: Insufficient stapling
+Action: Add additional staples or straps to comply with NEC 334.30; use proper staple type to avoid damaging cable
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Battery backup sump pump won't charge.
+
+### Response:
+Fault: Dead battery, failed charger, or corroded battery terminals
+Cause: Battery past life, charger circuit open, or connection corrosion
+Action: Test battery voltage; load test battery; check charger output; clean terminals; replace battery if won't hold charge
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric fence charger shocks tester but animals don't respect fence.
+
+### Response:
+Fault: Insufficient ground or vegetation shorting fence
+Cause: Poor grounding system or weed contact absorbing charge
+Action: Add ground rods to fence ground; clear vegetation from fence line; retest output voltage
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Ceiling outlet box not supported — swings when touched.
+
+### Response:
+Fault: Code violation — boxes must be rigidly mounted
+Cause: Improper initial installation
+Action: Install fan-rated box with proper brace or blocking; use remodeling fan brace for retrofit
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric floor heating shows broken element on ohm test.
+
+### Response:
+Fault: Open heating element
+Cause: Physical damage during installation or element failure
+Action: Locate break using TDR or ohmmeter method; if under floor, map cable and inspect for damage point
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltmeter reads voltage on a wire even after breaker is off.
+
+### Response:
+Fault: Induced or phantom voltage from adjacent wiring
+Cause: Capacitive coupling from adjacent energized cable
+Action: Test with low-impedance voltmeter (tic tracer shows induced voltage easily); confirm true voltage with load
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+NEMA 14-30 outlet wired with only three wires — missing neutral.
+
+### Response:
+Fault: Missing neutral — serious hazard for dryer
+Cause: Installer used three-wire 10/3 without neutral
+Action: NEMA 14-30 requires neutral; run 10/3 with ground (four conductors); never use dryer case as neutral path in new work
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Three-phase panel with only two phases connected.
+
+### Response:
+Fault: Single-phase or open delta supply where three-phase is installed
+Cause: Utility only provides two phases, or third phase connection missing
+Action: Verify utility service; complete third phase connection if available; do not connect three-phase loads on two-phase
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrical room door cannot be opened from inside.
+
+### Response:
+Fault: NEC violation — electrical rooms require egress from inside
+Cause: Door swings wrong direction or no interior hardware
+Action: Install panic hardware or ensure door swings out; NEC requires egress from enclosed electrical spaces
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outdoor GFCI outlet has condensation inside clear cover.
+
+### Response:
+Fault: Moisture inside outlet — potential ground fault
+Cause: Temperature differential causing condensation or failed seal
+Action: Replace outlet; use in-use weatherproof cover; seal box-conduit interface; check for standing water issues
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Meter base shows signs of overheating.
+
+### Response:
+Fault: High resistance at meter jaws or overloaded meter base
+Cause: Loose meter or undersized service
+Action: Contact utility — meter base is utility responsibility; do not pull meter yourself
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel directory is blank — no circuits labeled.
+
+### Response:
+Fault: Safety and maintenance hazard
+Cause: Never labeled at installation
+Action: Systematically identify and label all circuits; use plug-in load identifier; update directory with permanent labels
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Switch wired with white wire used as hot — not re-identified.
+
+### Response:
+Fault: White wire used as hot must be re-identified with tape
+Cause: Common in switch loops — but must be marked
+Action: Wrap white conductor with black or colored tape at all visible points; maintain consistent identification
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Smoke fills breaker room after fault — room locked.
+
+### Response:
+Fault: Electrical fire or severe arcing event in progress
+Cause: Sustained arc fault or short circuit
+Action: EVACUATE; call fire department; do not open room; utility or fire department must de-energize; do not enter
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Generator neutral not bonded — floating neutral.
+
+### Response:
+Fault: Generator with transfer switch should have floating neutral
+Cause: Neutral bond belongs at main panel, not in generator when ATS is used
+Action: For portable with ATS: do not bond at generator; for standalone: bond at generator; verify with ATS manufacturer
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Fixture buzzes after LED retrofit.
+
+### Response:
+Fault: LED driver harmonics resonating with fixture ballast or dimmer
+Cause: Incompatible driver/dimmer combination
+Action: Bypass or remove ballast for LED tube; use compatible LED dimmer; try different LED brand
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+NEMA 5-20 outlet on 15A circuit.
+
+### Response:
+Fault: Incorrect outlet for circuit amperage
+Cause: 20A outlet should only be on 20A circuit per NEC 210.21
+Action: Replace with 15A outlet or upgrade circuit to 20A with correct wire gauge
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Battery in smoke detector replaced but detector still chirps.
+
+### Response:
+Fault: End-of-life detector or internal fault
+Cause: Detector signaling end of service life (7-10 years)
+Action: Check manufacture date on detector; replace if over 10 years old; verify battery is seated correctly
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Circuit breaker handle is in middle position.
+
+### Response:
+Fault: Breaker has tripped
+Cause: Overcurrent, ground fault, or arc fault event
+Action: Turn handle to full OFF first; investigate and correct fault; reset to ON
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Ceiling fan wobbles at high speed.
+
+### Response:
+Fault: Unbalanced blades or loose blade bracket
+Cause: Blade pitch variation, blade imbalance, or loose hardware
+Action: Use balancing kit; tighten all blade screws and brackets; check mounting
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric range hood fan very loud and trips breaker.
+
+### Response:
+Fault: Motor bearing failure causing locked rotor condition
+Cause: Worn motor bearings seizing
+Action: De-energize; replace motor or full unit; check for grease buildup causing mechanical load
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Can't find ground fault — GFCI trips but nothing obvious found.
+
+### Response:
+Fault: Intermittent or hidden ground fault
+Cause: Moisture, damaged insulation only under load, or load-dependent fault
+Action: Use Megger at various voltages; test each device individually; check for water in any box; inspect outdoor and wet area wiring
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Customer reports smell of fish or burning plastic from outlet.
+
+### Response:
+Fault: Overheating plastic indicating arcing connection
+Cause: High-resistance connection in outlet or wiring
+Action: De-energize circuit; inspect outlet and wiring; burning fish smell = hot plastic; replace outlet and repair connections
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet with GFCI protection needed in garage but only 2-wire cable available.
+
+### Response:
+Fault: No ground available, but GFCI is acceptable alternative
+Cause: Old wiring
+Action: Install GFCI outlet; label "No Equipment Ground — GFCI Protected"; this is code compliant per NEC 406.4(D)
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Tandem breaker in panel shows only one slot but feeds two circuits.
+
+### Response:
+Fault: No fault if panel is listed for tandem use at that position
+Cause: Space-saving tandem installation
+Action: Verify position is tandem-approved on panel interior label; tandem breakers are code compliant where listed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Arc flash hazard label missing from switchgear.
+
+### Response:
+Fault: OSHA and NFPA 70E compliance issue
+Cause: Label never applied or faded
+Action: Perform arc flash study or use table method; apply compliant arc flash label; do not work energized without proper PPE
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Transformer room temperature exceeds 40°C ambient.
+
+### Response:
+Fault: Transformer derating required above rated ambient
+Cause: High ambient reduces transformer capacity
+Action: Improve ventilation; derate transformer per manufacturer tables; do not operate above rated temperature
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet has both hot and neutral swapped and ground missing.
+
+### Response:
+Fault: Multiple wiring errors — shock hazard
+Cause: Improper installation
+Action: De-energize; correct polarity (hot to brass/small slot); restore ground; test with tester before use
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Industrial motor starter overload trips in hot weather only.
+
+### Response:
+Fault: Thermal overload relay deration at high ambient
+Cause: Bimetal overload relay calibrated for 40°C; above this it trips earlier
+Action: Adjust overload trip class; use ambient-compensated overload relay; verify motor current is not actually higher
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Two wires from same circuit crossed at a junction box.
+
+### Response:
+Fault: Parallel neutral and hot reversed on one branch
+Cause: Wiring error at junction
+Action: De-energize; use tone tracer to identify correct conductors; rewire correctly; test before use
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Infrared thermometer shows 180°F on wire insulation.
+
+### Response:
+Fault: Severely overheated conductor — immediate hazard
+Cause: Sustained overload or connection fault
+Action: De-energize immediately; inspect for melted insulation; do not restore until fault found and repaired
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel is full — no available breaker spaces.
+
+### Response:
+Fault: Panel at capacity
+Cause: All positions occupied
+Action: Install subpanel; use tandem breakers if panel listed for them; evaluate load and remove unused circuits
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wire nut turned black inside.
+
+### Response:
+Fault: Arcing at wire nut connection
+Cause: High resistance or loose wire in nut caused arc
+Action: De-energize; cut back conductor ends; inspect for damage; replace wire nut and re-terminate; check for cause
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Light dims when microwave starts.
+
+### Response:
+Fault: Voltage sag from shared circuit or service load
+Cause: Microwave high inrush on shared circuit
+Action: Dedicate circuit to microwave; verify utility service capacity
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Customer has 100A service but running 2-ton heat pump.
+
+### Response:
+Fault: Service may be undersized depending on total load
+Cause: Heat pump adds significant load
+Action: Perform load calculation per NEC Article 220; if over 100A recommend service upgrade
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Coax cable stapled over electrical cable in attic.
+
+### Response:
+Fault: Separation of power and communication cables required
+Cause: Code requires separation to prevent interference and hazard
+Action: Re-route communication cables away from power cables; minimum 2" separation recommended
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrician finds a wire nut with 8 conductors.
+
+### Response:
+Fault: Likely overloaded wire nut
+Cause: Wire nut may not be rated for that many conductors
+Action: Check wire nut listing and capacity chart; split into multiple wire nuts or use push-in connector rated for capacity
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Water pump motor starts and immediately trips overload.
+
+### Response:
+Fault: Locked rotor — pump mechanically bound or lost prime
+Cause: Pump impeller seized or air locked
+Action: Check pump rotation freely by hand; prime pump; check for debris in impeller; overload set correctly?
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Single-phase motor hums but doesn't start with no load.
+
+### Response:
+Fault: Failed start capacitor
+Cause: Capacitor open — motor loses starting torque
+Action: Test capacitor with capacitance meter; replace with same µF and voltage rating; motor should start immediately
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+House has 240V service but only one phase in panel.
+
+### Response:
+Fault: Lost service leg or single-phase service
+Cause: Utility only providing one phase, or main lug connection failure
+Action: Measure at service entrance; contact utility if only one phase at meter; check main lug if meter reads both phases
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Fixture not working — fuse type holder found in circuit.
+
+### Response:
+Fault: Possible blown fuse in local fuse holder
+Cause: Overload or fault blew fuse
+Action: Replace fuse with correct rating and type; investigate reason for blowing; do not upsize fuse
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric dryer outlet 3-prong but new dryer requires 4-prong.
+
+### Response:
+Fault: Outlet doesn't match new equipment
+Cause: Pre-1996 installation with 3-wire dryer outlet (no ground)
+Action: Run new 10/3 with ground cable; install NEMA 14-30 outlet; do not adapt 3-prong to 4-prong without proper ground
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Service cable sheath damaged at weatherhead entry.
+
+### Response:
+Fault: Exposed service entrance conductors — shock and arcing hazard
+Cause: Weatherhead abrasion or animal damage
+Action: Contact utility — service entrance to meter is utility property; do not touch without utility shutoff
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet tester shows correct but there is no ground wire in box.
+
+### Response:
+Fault: GFCI feeding this outlet — tester shows "correct" with GFCI upstream but no true ground
+Cause: GFCI protection makes tester show correct reading without physical ground
+Action: Confirm GFCI is protecting outlet; label "GFCI Protected — No Equipment Ground"
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Generator output frequency drifts between 58-62Hz.
+
+### Response:
+Fault: Governor instability or hunting
+Cause: Governor spring worn, carburetor issue, or RPM hunting
+Action: Adjust governor linkage; clean carburetor; check RPM with frequency meter; engine service may be needed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Breaker trips only when owner uses hair dryer in bathroom.
+
+### Response:
+Fault: Bathroom circuit overloaded by hair dryer
+Cause: Hair dryers draw 15-20A — may exceed 15A circuit capacity
+Action: Verify circuit amperage; install dedicated 20A circuit for bathroom; hair dryers require significant capacity
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wall heater thermostat clicks but heater doesn't ignite (gas).
+
+### Response:
+Fault: Gas valve, pilot, or igniter issue — not primarily electrical
+Cause: Pilot out, gas valve not energizing, or igniter failed
+Action: Verify 24V to gas valve; check igniter spark; restore pilot; call gas technician if valve fails to open
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Hospital-grade outlet required but standard outlet installed.
+
+### Response:
+Fault: Code violation in patient care area
+Cause: Installer used standard outlet in location requiring hospital grade
+Action: Replace with NFPA 99 compliant hospital-grade outlet (green dot marking); verify grounding reliability
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage at outlet fluctuates constantly — meter needle swings.
+
+### Response:
+Fault: Intermittent connection or load causing repeated voltage sag
+Cause: Loose hot connection, intermittent neutral, or oscillating load nearby
+Action: Use data logger to capture events; inspect all connections on circuit; check for loose connection at panel
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Three-phase load bank unbalanced — one phase shows no current.
+
+### Response:
+Fault: Open phase or failed load element
+Cause: Blown fuse, open connection, or burned load element
+Action: Check fuses on open phase; test load element continuity; restore connection or replace element
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Dimmer switch gets hot after 30 minutes.
+
+### Response:
+Fault: Dimmer overloaded or incompatible load
+Cause: Total load exceeds dimmer rating or wrong dimmer type for LED
+Action: Verify total wattage vs dimmer rating; use dimmer with adequate derating; ensure proper ventilation in box
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+60A feeder to detached building has only 2 conductors.
+
+### Response:
+Fault: Missing neutral or ground — depends on service type
+Cause: Two-wire 240V-only circuit or missing ground/neutral
+Action: If 240V-only loads (no 120V): acceptable with equipment ground; if 120V loads needed: run 4-wire feeder
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Service mast rusted and leaning.
+
+### Response:
+Fault: Structural failure of service mast — safety hazard
+Cause: Weather corrosion and mechanical stress
+Action: Contact utility to disconnect; replace mast with correct gauge rigid conduit; utility reconnects after inspection
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet falls out of wall when unplugging device.
+
+### Response:
+Fault: Outlet not properly secured in box
+Cause: Missing screws, plastic tabs broken, or box not flush with wall
+Action: De-energize; secure outlet with both mounting screws; ensure box is set correctly; use box extender if recessed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Ceiling junction box holds five cables — is it legal?
+
+### Response:
+Fault: Depends on box fill calculation
+Cause: Must calculate cubic inches per NEC 314.16
+Action: Calculate fill; standard 4" square box is ~21 cubic inches; each 14AWG conductor = 2 cu in; replace with larger box if exceeded
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Fire alarm panel shows ground fault but nothing obvious found.
+
+### Response:
+Fault: Intermittent or hidden ground fault on fire alarm loop
+Cause: Damaged wire, moisture in pull station, or device fault
+Action: Use zone isolation to narrow down; test each device; disconnect one at a time until fault clears
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New outlet installed but one slot is bigger than the other — why?
+
+### Response:
+Fault: No fault — normal polarized outlet design
+Cause: Neutral slot is larger (wide); hot slot is smaller (narrow) — intentional polarization
+Action: Verify hot is connected to small slot (brass screw) and neutral to large slot (silver screw)
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Cable buried only 6 inches deep — local frost depth is 36 inches.
+
+### Response:
+Fault: Insufficient burial depth — cable vulnerable to freeze damage and digging
+Cause: Non-compliance with NEC and frost depth requirements
+Action: Minimum burial depth varies by cable type: 24" for UF, 6" for rigid conduit; re-bury or re-route
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Thermostat wiring shows only two wires — R and W.
+
+### Response:
+Fault: No fault — two-wire heating-only thermostat system
+Cause: Simple heat-only system without cooling or fan control
+Action: Two-wire is correct for simple heating systems; smart thermostat will need C-wire adapter for power
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Furnace blower runs but no heat — inducer and igniter work.
+
+### Response:
+Fault: Flame sensor dirty or failed, or pressure switch issue
+Cause: Flame sensor not detecting flame, shutting off gas valve
+Action: Clean flame sensor with steel wool; if gas lights then extinguishes, flame sensor is suspect; not primarily electrical — HVAC tech advised
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wire in outdoor conduit is aluminum but connected to copper bus with no listed connector.
+
+### Response:
+Fault: Dissimilar metal connection without proper connector
+Cause: Galvanic corrosion risk between aluminum and copper
+Action: Use listed AL/CU rated connector; apply anti-oxidant compound; torque to spec
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel neutral bar has loose neutral causing intermittent outages.
+
+### Response:
+Fault: Loose neutral — high risk of overvoltage on 120V loads
+Cause: Terminal not torqued, vibration loosening, or aluminum conductor oxidation
+Action: De-energize main; tighten all neutral terminals to torque spec; apply anti-oxidant on aluminum neutrals
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Main breaker reads 120V on both sides when off.
+
+### Response:
+Fault: Backfed voltage through loads or load-side measurement issue
+Cause: Voltage on load side can backfeed from generator, capacitors, or measurement error
+Action: Verify meter leads; confirm no generator connected; test both sides under no-load condition
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Sensor light won't turn off even after override switch.
+
+### Response:
+Fault: Sensor bypassed by override or sensor stuck on
+Cause: Sensor output relay stuck closed or wired with switch on neutral
+Action: Verify override switch is on hot conductor; test sensor isolation; replace sensor if stuck on
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrician discovers fuse bypassed with copper wire.
+
+### Response:
+Fault: Extremely dangerous — bypassed overcurrent protection
+Cause: Previous attempt to avoid replacing blown fuse
+Action: Remove bypass immediately; replace with correct fuse; inspect for damage from fault that caused original blow
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New refrigerator display flickers when compressor runs.
+
+### Response:
+Fault: Internal voltage fluctuation — likely appliance issue
+Cause: Compressor startup noise on appliance power supply
+Action: Verify outlet voltage is stable; check appliance under warranty; supply dedicated circuit if voltage sags
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrical box has open knockouts with no covers.
+
+### Response:
+Fault: Code violation — open knockouts create shock and fire hazard
+Cause: Cable removed or knockout never filled
+Action: Install knockout seals in all unused openings; this is a common inspection failure item
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Air handler low voltage board shows 24V on output but thermostat doesn't respond.
+
+### Response:
+Fault: Open circuit in thermostat wiring or faulty thermostat
+Cause: Broken thermostat wire, bad thermostat, or wrong terminal assignment
+Action: Test continuity of thermostat wires; check correct terminal connections; swap suspect thermostat
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Commercial building loses neutral from utility — what happens?
+
+### Response:
+Fault: Open neutral on 3-phase wye system
+Cause: Utility neutral failure
+Action: Single-phase loads see voltage imbalance; some get overvoltage; shut down sensitive equipment; call utility immediately
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Extension cord run through wall as permanent wiring.
+
+### Response:
+Fault: Code violation — extension cords cannot be used as permanent wiring
+Cause: Improper installation
+Action: Remove extension cord; install proper NM cable in wall; extension cords are temporary devices only
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Motor on conveyor belt runs but trips overload after warmup.
+
+### Response:
+Fault: Running overload — motor drawing too much current when hot
+Cause: Mechanical binding increasing with temperature, or motor nearing end of life
+Action: Check conveyor belt tension; lubricate bearings; measure running current cold vs hot; replace motor if windings degraded
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Subpanel fed with 100A breaker but 60A wire used.
+
+### Response:
+Fault: Overcurrent protection exceeds wire ampacity
+Cause: Breaker too large for conductor
+Action: Replace feeder breaker with 60A to match wire, or upgrade wire to 100A rated conductor
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Lighting control panel not responding to scene buttons.
+
+### Response:
+Fault: Communication fault, dead panel, or lost programming
+Cause: Controller power issue, network failure, or programming corruption
+Action: Power cycle controller; check communication wiring; reprogram if memory corrupted; contact system vendor
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Client complains electricity bill doubled with no change in usage.
+
+### Response:
+Fault: Possible meter fault, hidden load, or utility error
+Cause: Appliance failing to turn off, meter error, or new significant load
+Action: Audit loads; check water heater, HVAC, and pool pump for continuous operation; request utility meter test
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrician called to find source of stray voltage on boat dock.
+
+### Response:
+Fault: Electric shock drowning risk — stray voltage in water
+Cause: Ground fault on dock wiring entering water
+Action: LIFE-THREATENING; keep people out of water; de-energize dock; inspect all wiring and equipment; test with ground fault locator
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New home panel has no bond between neutral and ground.
+
+### Response:
+Fault: Missing main bonding jumper — code violation
+Cause: Bond not installed or removed
+Action: Install main bonding jumper connecting neutral bar to panel enclosure; required at service entrance panel only
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Substation breaker trips when large motor starts.
+
+### Response:
+Fault: Motor inrush too high for protection settings
+Cause: Upstream protection not coordinated with motor starting
+Action: Adjust protection settings for motor starting curve; install soft-start or VFD; consult coordination study
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Unknown voltage source — wire energized even with all breakers off.
+
+### Response:
+Fault: Backfeed from external source or wiring error
+Cause: Generator, solar system, or interconnected circuit backfeeding
+Action: DANGER — de-energize all known sources; locate and isolate unknown source; do not work energized
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New hardwired smoke detector doesn't chirp or alarm.
+
+### Response:
+Fault: No power or missing interconnect wire
+Cause: Circuit not live, or detector wired incorrectly
+Action: Verify 120V at detector; check white neutral and black hot connections; verify green or bare ground; test button
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Circuit trips under unknown load — cannot reproduce fault.
+
+### Response:
+Fault: Intermittent fault — difficult to diagnose
+Cause: Thermal expansion causing intermittent short, moisture-related, or load coincidence
+Action: Install data logger on circuit; monitor over time; perform insulation test; inspect all connections for intermittent contact
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outdoor disconnect box for HVAC has no GFCI protection.
+
+### Response:
+Fault: May or may not be required depending on jurisdiction and voltage
+Cause: 240V HVAC typically does not require GFCI at disconnect; check local code
+Action: Verify local AHJ requirements; NEC 210.8(B) lists specific 240V equipment requiring GFCI protection
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet near kitchen sink has no GFCI protection.
+
+### Response:
+Fault: Code violation — GFCI required within 6 feet of kitchen sink
+Cause: Non-compliant installation
+Action: Install GFCI outlet or protect from GFCI breaker; test for correct operation
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Service drop conductors touching tree branches.
+
+### Response:
+Fault: Clearance violation — fire and shock hazard
+Cause: Tree growth encroaching on service drop
+Action: Contact utility; do not trim branches yourself near service; utility must trim or re-route drop
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Smart meter communicates erratically.
+
+### Response:
+Fault: RF interference or meter defect
+Cause: Physical obstruction, frequency interference, or meter firmware issue
+Action: Contact utility; smart meter maintenance is utility responsibility; do not touch meter
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Rewirable fuse holder damaged — screw terminals corroded.
+
+### Response:
+Fault: High resistance at fuse terminals — hazard
+Cause: Corrosion from age and moisture
+Action: Replace fuse holder; clean or replace corroded carrier; verify fuse wire is correct amperage for circuit
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage reading changes with nearby radio transmitter.
+
+### Response:
+Fault: RF pickup on meter leads or circuit — phantom reading
+Cause: Radio frequency inducing voltage in measurement leads
+Action: Use shielded test leads; change meter orientation; reading likely not a true power frequency voltage
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Dimmer makes clicking noise at random times.
+
+### Response:
+Fault: Dimmer triac random firing or thermal cycling
+Cause: Incompatible load, overheated triac, or EMI issues
+Action: Verify load compatibility; check total load vs dimmer rating; replace dimmer; try different brand
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Load calculation shows panel is at 97% of 200A capacity.
+
+### Response:
+Fault: Near service limit — additional loads not recommended
+Cause: Total dwelling load close to service rating
+Action: Service upgrade to 400A recommended before adding major loads; document for owner
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Breaker trips when nothing is plugged into circuit — even with nothing on the circuit.
+
+### Response:
+Fault: Short circuit in wiring or failed breaker
+Cause: Wire-to-wire fault in wall, water in box, or internal breaker failure
+Action: Megger test circuit with no loads; if wiring tests OK replace breaker; if wiring fails trace short
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Fire sprinkler tamper switch shows supervisory alarm on fire panel.
+
+### Response:
+Fault: Sprinkler valve closed or tamper switch wiring open
+Cause: Valve partially closed or wiring fault on supervisory circuit
+Action: Verify all sprinkler valves fully open; inspect tamper switch wiring; call fire protection contractor
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Customer says wire gets warm after 2-hour run.
+
+### Response:
+Fault: Sustained load at or above wire ampacity
+Cause: Load too high for wire gauge, or ambient derating not applied
+Action: Measure current; compare to NEC 310.15 ampacity; derate for conduit fill and ambient; upgrade wire if needed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Circuit breaker appears to be correct size but wire gauge is unknown.
+
+### Response:
+Fault: Unknown wire gauge — cannot verify protection
+Cause: Wire not labeled or insulation color not definitive for gauge
+Action: De-energize; use wire gauge tool or cross-reference diameter; verify ampacity before restoring
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Entire floor of commercial building dead — one panel section.
+
+### Response:
+Fault: Section feeder breaker tripped or blown fuse in distribution section
+Cause: Overload, fault downstream, or component failure
+Action: Check distribution panel for tripped breakers or blown fuses; trace feeder back to source; investigate load fault
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Customer reports mild shock from kitchen faucet.
+
+### Response:
+Fault: Stray voltage on plumbing from wiring fault or current leakage
+Cause: Neutral current returning via water pipes, or appliance leaking to ground
+Action: Measure AC voltage faucet-to-earth; locate source of leaking appliance; verify bonding of water supply
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New LED driver causes radio interference.
+
+### Response:
+Fault: LED driver generating EMI
+Cause: Non-CE/FCC certified driver with inadequate filtering
+Action: Replace with FCC Part 15 compliant LED driver; add ferrite core filter on supply leads
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Multiple circuits trip together — different breakers.
+
+### Response:
+Fault: Common cause fault — shared neutral, common ground fault, or structural failure
+Cause: MWBC shared neutral open, or fault affecting multiple circuits
+Action: Check for shared neutral; inspect for common junction box issue; inspect panel bus
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel board located in a closet with clothing.
+
+### Response:
+Fault: Code violation — panels in clothes closets prohibited
+Cause: Non-compliant location
+Action: Relocate panel per NEC 240.24(D); panels prohibited in clothes closets; accessible location required
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Contactor won't drop out when coil de-energized.
+
+### Response:
+Fault: Welded contacts or mechanical jam
+Cause: Severe fault current welded contacts closed, or mechanical debris jamming armature
+Action: De-energize immediately; do not attempt to open by hand; replace contactor; identify and clear fault that caused welding
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Industrial machine throws E-stop but cause is unknown.
+
+### Response:
+Fault: Safety circuit opened — reason unclear
+Cause: E-stop button pressed, safety relay tripped, or wiring fault
+Action: Reset E-stop buttons; check safety relay status; inspect safety door/gate switches; trace safety circuit
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Fixture in attic has lamp installed but draws no current when switched on.
+
+### Response:
+Fault: Open circuit between switch and fixture, or dead fixture
+Cause: Broken wire in attic, loose connection, or fixture fault
+Action: Test voltage at fixture; trace switch leg; inspect connections at switch and fixture; replace fixture if faulty
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Combination CO/smoke detector alarms for CO — no obvious source.
+
+### Response:
+Fault: CO present or detector false alarm
+Cause: Gas appliance, idling vehicle, fireplace back-draft, or defective detector
+Action: EVACUATE and call fire department; do not dismiss CO alarm; ventilate; identify source before re-entry
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Old breaker box has main fuse — not a breaker.
+
+### Response:
+Fault: Service entrance fuse type disconnect — older system
+Cause: Pre-breaker era installation
+Action: Evaluate condition; fused disconnects are still functional but replacement with breaker panel recommended; ensure correct fuse amperage
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage across open switch reads 120V — is this normal?
+
+### Response:
+Fault: No fault — normal for open switch on hot conductor
+Cause: Open switch has full supply voltage on one side, load on other
+Action: This is expected; verify switch is interrupting hot conductor not neutral
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New dishwasher causes GFCI to trip — won't run.
+
+### Response:
+Fault: Ground fault in dishwasher or leakage current triggering GFCI
+Cause: Appliance leakage exceeds 5mA or internal fault
+Action: Test dishwasher on non-GFCI circuit to confirm; if it trips there too appliance is faulty; if OK install dishwasher on dedicated circuit
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Breaker for freezer keeps tripping overnight.
+
+### Response:
+Fault: Compressor overload, starting issue, or compressor failing
+Cause: Compressor hard-starting or ambient temperature dropping affecting compressor oil viscosity
+Action: Test compressor capacitor; measure starting amps; check for frost buildup blocking airflow; service or replace appliance
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Whole house fan causes lights to blink when starts.
+
+### Response:
+Fault: Large motor inrush causing voltage dip
+Cause: Whole house fan motor high starting current
+Action: Ensure fan is on dedicated circuit; voltage sag is expected but should be momentary; check wire sizing
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outdoor pole light flickers in humid weather only.
+
+### Response:
+Fault: Moisture on HID lamp or corroded socket contacts
+Cause: Humidity causing surface tracking or contact corrosion
+Action: Inspect lamp socket for corrosion; apply dielectric grease; replace lamp; consider LED conversion
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+PLC input card shows false input with nothing connected.
+
+### Response:
+Fault: Floating input picking up noise
+Cause: Input not pulled down or shielded against electromagnetic noise
+Action: Add pull-down resistor to input; shield input wiring; use twisted pair cable; verify input filtering setting
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Underground service conduit blocked — can't pull wire.
+
+### Response:
+Fault: Conduit blocked by debris, root intrusion, or collapse
+Cause: Physical obstruction in buried conduit
+Action: Try mandrel to locate blockage; use fish tape; excavate if necessary; replace conduit if collapsed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric motor draws correct current but overheats.
+
+### Response:
+Fault: Inadequate ventilation or insulation breakdown
+Cause: Dirty cooling fins, blocked ventilation, or insulation degraded raising core temperature
+Action: Clean motor vents; verify ambient temperature; test insulation resistance; check for blocked air passages
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Customer reports smell of ozone in electrical room.
+
+### Response:
+Fault: Ozone indicates high voltage discharge or UV source
+Cause: Corona discharge from high voltage connections or UV sterilization equipment
+Action: Inspect high voltage connections for corona (in dark look for glow); tighten connections; investigate corona source
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+AFCI breaker trips when refrigerator compressor starts.
+
+### Response:
+Fault: Refrigerator motor starting causing AFCI nuisance trip
+Cause: Some refrigerator types emit signal that mimics arc signature
+Action: Try different AFCI brand; install AFCI outlet instead of breaker; verify no actual fault in circuit
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Building has high impedance ground fault — no breaker trips.
+
+### Response:
+Fault: Resistive ground fault below trip threshold
+Cause: Fault path through high resistance — won't trip breaker but can cause fire
+Action: Use GFCI protection to detect milliamp-level faults; Megger testing to find location; install arc fault protection
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Customer reports power outage affecting only one outlet — all breakers on.
+
+### Response:
+Fault: Outlet fed from GFCI that has tripped
+Cause: GFCI upstream tripped but its own indicator LED not noticed
+Action: Find GFCI outlet on same circuit; reset; check bathroom, kitchen, garage, and outdoor GFCIs
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Heating element for plastic welder doesn't reach temperature.
+
+### Response:
+Fault: Low voltage, partially open element, or controller issue
+Cause: Voltage drop on long cord, degraded element, or temperature controller setpoint
+Action: Check voltage at tool input; test element resistance; verify controller output signal
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Smoke detector triggers every time toast is made.
+
+### Response:
+Fault: Detector too close to kitchen or ionization type too sensitive to cooking smoke
+Cause: Ionization detectors very sensitive to smoke particles from cooking
+Action: Relocate detector further from kitchen; replace with photoelectric type in kitchen area
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Heat trace cable on roof not melting ice dam.
+
+### Response:
+Fault: Heat trace circuit off, failed element, or thermostat set too low
+Cause: Thermostat not activating or element open
+Action: Verify thermostat set point; measure current in heat trace cable; test continuity; replace failed section
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Circuit works fine in summer but trips breaker in winter.
+
+### Response:
+Fault: Cold-related increased load or condensation causing fault
+Cause: Heating element drawing more current in cold, or moisture-related fault
+Action: Check ambient effects on load; inspect for moisture entry in winter; measure cold-start current vs trip rating
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wire run in EMT conduit in food processing area corroding rapidly.
+
+### Response:
+Fault: Standard EMT not suitable for food processing/wet environment
+Cause: Chemical wash-down causing corrosion
+Action: Replace with stainless steel conduit or PVC-coated GRC; use waterproof fittings; seal all entries
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Solar battery storage system shows low state of charge despite sunny weather.
+
+### Response:
+Fault: Charging circuit fault, battery degradation, or excess load
+Cause: Charge controller failure, shaded panels, or battery capacity reduced with age
+Action: Check charge controller status; verify panel output current; test battery capacity; check load profile
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Utility company says high usage — customer disputes it.
+
+### Response:
+Fault: Possible meter error, hidden load, or utility billing error
+Cause: Faulty meter, unreported load (pool heater, grow light, mining hardware), or billing mistake
+Action: Request meter test from utility; audit home for unknown loads; check for meter tampering signs
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New circuit installed but outlet not working — no voltage at outlet.
+
+### Response:
+Fault: Breaker not on or wiring error in new circuit
+Cause: Forgot to turn on new breaker, wire not landed on breaker, or connection error at outlet
+Action: Verify breaker is on; check hot wire at breaker; trace to outlet; verify all connections made correctly
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Cable tray overloaded with wiring.
+
+### Response:
+Fault: Excess cable in tray violates NEC ampacity derating requirements
+Cause: Cables added over time without recalculating fill
+Action: Calculate ampacity derating for cables in tray per NEC 392.80; remove excess or add second tray
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Industrial control panel has exposed live terminals.
+
+### Response:
+Fault: OSHA violation — exposed live parts must be guarded
+Cause: Missing terminal covers or guard barriers
+Action: Install appropriate barriers or covers; comply with NFPA 70E and OSHA 1910.303(g)
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Fire pump controller shows phase reversal alarm.
+
+### Response:
+Fault: Phase rotation reversed at fire pump controller input
+Cause: Phase sequence changed during maintenance or switchover
+Action: Swap any two phase conductors at controller input; verify motor rotation direction before restoring
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet installed upside down — ground slot at top.
+
+### Response:
+Fault: No code violation — NEC allows any orientation; some codes prefer ground up
+Cause: Installer preference or misunderstanding
+Action: Ground slot up may be preferred in commercial; either orientation is generally acceptable; verify local AHJ
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Power factor correction capacitor bank trips on energization.
+
+### Response:
+Fault: Inrush current from capacitor bank tripping overcurrent protection
+Cause: Capacitors draw high inrush when energized
+Action: Install inrush limiting reactor; use soft-switching capacitor contactor; coordinate protection settings with cap bank
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Hospital calls — patient monitoring equipment alarming from power fluctuations.
+
+### Response:
+Fault: Power quality issue affecting sensitive medical equipment
+Cause: Voltage sags, transients, or harmonics on supply
+Action: Install medical-grade isolation transformer and UPS; measure power quality; segregate medical circuits from other loads
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrician cannot determine which wire is hot — both read voltage.
+
+### Response:
+Fault: Both wires reading voltage — possible open neutral or induced voltage
+Cause: Floating reference, open neutral, or voltage induction from adjacent cables
+Action: Use low-impedance meter; apply load to distinguish true hot from induced voltage; verify neutral reference
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Battery-powered smoke detector with no AC option in a new home.
+
+### Response:
+Fault: Code violation — new construction requires hardwired, interconnected detectors
+Cause: Battery-only detector installed where hardwired required
+Action: Replace with hardwired interconnected detector per NEC 760 and local residential code
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+HVAC variable frequency drive shows DC bus overvoltage fault.
+
+### Response:
+Fault: Excessive regenerated energy from decelerating motor
+Cause: Motor braking too fast, sending energy back into DC bus
+Action: Increase deceleration ramp time; install braking resistor; adjust VFD braking parameters
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Large commercial transformer making crackling noise.
+
+### Response:
+Fault: Internal arcing or partial discharge
+Cause: Insulation breakdown, moisture, or loose internal connection
+Action: De-energize immediately; call transformer specialist; do not operate; take oil sample for analysis if oil-filled
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Whole building loses power — main breaker not tripped.
+
+### Response:
+Fault: Utility supply failure or failed service entrance
+Cause: Utility outage, blown utility fuse, or service entrance failure before main breaker
+Action: Check adjacent buildings; contact utility; check service entrance for visible damage; do not touch service conductors
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Emergency lighting battery pack fails to hold charge during test.
+
+### Response:
+Fault: Degraded battery in emergency luminaire
+Cause: Battery past service life or inadequate charging current
+Action: Test battery voltage under 90-minute load test; replace battery; test annually per NFPA 101
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel room flooded — water on floor, panel energized.
+
+### Response:
+Fault: Electrical equipment in flooded space — life hazard
+Cause: Flooding event
+Action: DO NOT ENTER — electrocution risk; de-energize from external disconnect or utility; call licensed electrician; only enter when confirmed de-energized and safe
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Ethernet cable run parallel and touching power cables for 50 feet.
+
+### Response:
+Fault: EMI interference possible; code may require separation
+Cause: Data cables too close to power cables inducing noise
+Action: Maintain minimum 6-inch separation; use STP cable; run perpendicular crossings only where parallel runs unavoidable
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrician notices breaker has scorch mark on plastic casing.
+
+### Response:
+Fault: Previous arc event at breaker terminal
+Cause: Loose conductor or severe overload caused arc
+Action: Replace breaker; inspect terminal and bus stab; verify conductor is correct size and torqued properly
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Power outage in specific zone after thunderstorm — no breakers tripped.
+
+### Response:
+Fault: Lightning damage to wiring, surge protector operated, or utility fault
+Cause: Surge event damaged devices or tripped remote GFCI/AFCI
+Action: Check all GFCI and AFCI breakers/outlets; inspect surge protectors; look for blown fuses in appliances
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrician finds work done by previous contractor is uncertified and dangerous.
+
+### Response:
+Fault: Safety and legal liability concern
+Cause: Unlicensed or incompetent work
+Action: Document all deficiencies; advise owner in writing; recommend correction; do not energize unsafe work
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Unknown cause of intermittent ground fault — cannot reproduce with any testing.
+
+### Response:
+Fault: Intermittent fault — not diagnosable under current conditions
+Cause: Could be temperature, humidity, load, vibration, or mechanical intermittent contact dependent
+Action: Install continuous ground fault monitoring; use data logger; return during high-load or adverse weather conditions to reproduce
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Ceiling fan speed control not working on one speed.
+
+### Response:
+Fault: Failed speed winding or capacitor in fan motor
+Cause: One speed tap open or run capacitor degraded
+Action: Test capacitor; check all speed tap wires on motor; replace capacitor or motor if winding open
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel has 60A main but 100A meter base.
+
+### Response:
+Fault: Main breaker undersized for meter base
+Cause: Service upgrade not completed fully
+Action: Upgrade main breaker and feeder wiring to 100A minimum; calculate load first
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+RV plugged in but shore power light not on.
+
+### Response:
+Fault: No power at pedestal, blown converter fuse, or failed shore power inlet
+Cause: Pedestal breaker tripped, damaged cord, or inlet damaged
+Action: Test pedestal voltage; inspect cord for damage; check RV converter fuse; test inlet pins
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Bathroom light turns on when another switch in hallway is toggled.
+
+### Response:
+Fault: Crossed switch legs — wiring error
+Cause: Switch legs wired to wrong circuits at junction
+Action: De-energize; trace and correctly route each switch leg to its own fixture
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Power tool burns out frequently on jobsite.
+
+### Response:
+Fault: Low voltage due to long extension cord
+Cause: Voltage drop causes motor to draw excess current and overheat
+Action: Use heavy-gauge cord (10-12 AWG) for long runs; measure voltage at tool under load; run temporary power closer
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+240V pump motor connected with 12 AWG wire on 30A breaker.
+
+### Response:
+Fault: Wire undersized for breaker — fire hazard
+Cause: 12 AWG rated 20A; 30A breaker over-protects it
+Action: Replace breaker with 20A or upgrade wire to 10 AWG for 30A; never exceed wire ampacity
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New home inspection finds multiple open grounds throughout.
+
+### Response:
+Fault: Ground conductors missing or disconnected
+Cause: Poor workmanship during construction
+Action: Trace each ground conductor; connect properly at outlet and box; verify continuity to panel ground bar
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage reads 240V at outlet but appliance specs say 230V maximum.
+
+### Response:
+Fault: Utility voltage above appliance rating
+Cause: High utility delivery voltage
+Action: Check utility voltage compliance with ANSI C84.1; if regularly above 126V contact utility; 240V appliances typically tolerate ±10%
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Ground rod resistance measured at 35 ohms.
+
+### Response:
+Fault: High ground electrode resistance — above NEC 25 ohm limit
+Cause: Dry, rocky, or sandy soil with poor conductivity
+Action: Drive second ground rod minimum 6 feet away; use ground enhancement compound; add more rods or use ground ring
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Sump pump not running during heavy rain — float switch stuck.
+
+### Response:
+Fault: Float switch not activating pump
+Cause: Float stuck due to pump position, debris, or failed switch
+Action: Manually activate float to test; clean pit; reposition pump if float blocked; replace float switch if failed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+LED strip lights not working at far end of long run.
+
+### Response:
+Fault: Voltage drop along LED strip run
+Cause: Thin copper conductors in strip cannot carry current over long distance
+Action: Use heavier gauge feed wire; inject power at both ends; use amplifier for runs over 5 meters
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Air compressor motor trips internal thermal overload repeatedly.
+
+### Response:
+Fault: Motor overloading or overheating
+Cause: Worn piston rings, restricted intake, or duty cycle too high
+Action: Let motor cool; check inlet filter; measure current; reduce duty cycle; service compressor pump
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Customer reports static discharge when touching light switch.
+
+### Response:
+Fault: Static buildup from low humidity or ungrounded switch plate
+Cause: Plastic switch plate accumulates static charge
+Action: Check switch plate grounding; raise indoor humidity; use antistatic spray; verify switch ground screw connected
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Pool light tripped GFCI — bulb replacement done, still trips.
+
+### Response:
+Fault: Water in fixture or cable fault
+Cause: Wet niche seal failed or conduit filled with water
+Action: Remove fixture; dry thoroughly; inspect seal; test lamp out of water; Megger cable; replace niche if corroded
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Transfer switch neutral point floating — generator shows 130V one leg.
+
+### Response:
+Fault: Neutral not bonded at generator with floating neutral ATS
+Cause: Generator intended for bonded neutral but ATS is floating neutral type
+Action: Match generator neutral bonding to ATS type; consult ATS manufacturer for correct configuration
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Low voltage transformer hum getting louder over time.
+
+### Response:
+Fault: Progressive core loosening or overload
+Cause: Core lamination bolts loosening or transformer overloaded increasing core vibration
+Action: Check mounting; verify load; replace transformer if hum is severe or load exceeds rating
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric stove hood filter light stays on even when off.
+
+### Response:
+Fault: Stuck relay or shorted switch in hood control board
+Cause: Relay contacts fused or switch wired into neutral
+Action: De-energize; inspect control board; replace relay or board; verify switch on hot conductor
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+One zone of radiant floor heating not working.
+
+### Response:
+Fault: Open element in that zone or thermostat not calling
+Cause: Damaged heating mat element or faulty thermostat
+Action: Test thermostat output; check element continuity; use TDR to locate break in mat if open
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet shows 120V but nothing charges.
+
+### Response:
+Fault: Reversed polarity or high internal resistance
+Cause: Hot and neutral swapped — device protection circuits block charging
+Action: Verify correct polarity with outlet tester; correct wiring if reversed; check for high resistance in circuit
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Commercial kitchen exhaust hood fails inspection for electrical.
+
+### Response:
+Fault: Likely wrong wire type or missing liquid-tight conduit
+Cause: Standard NM cable not permitted in commercial kitchen hood
+Action: Use liquid-tight flexible conduit (LFMC) and THWN wire rated for wet/high-temp environment
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Emergency generator starts but won't accept load from ATS.
+
+### Response:
+Fault: Generator not at voltage/frequency spec or ATS time delay active
+Cause: Engine not up to speed or ATS still in delay
+Action: Measure generator output; wait for ATS delay; check ATS voltage sensing relay set points
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Lighting in cold storage freezer room fails frequently.
+
+### Response:
+Fault: Standard fixtures not rated for low temperature operation
+Cause: Fixture components fail below minimum rated temperature
+Action: Install low-temperature rated fixtures (-40°C rated); use cold-rated LED drivers; protect junction boxes from condensation
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Customer replaced breaker with higher amperage to stop tripping.
+
+### Response:
+Fault: Dangerous — overcurrent protection bypassed
+Cause: Customer upsized breaker without upgrading wire
+Action: Replace with correct size breaker immediately; explain risk; inspect for damage from overloading
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New construction AFCI breaker trips on circuit with nothing connected.
+
+### Response:
+Fault: Wiring defect or cable damaged during construction
+Cause: Nail through cable, pinched wire, or insulation damage
+Action: Megger test circuit; inspect cable for physical damage; check all boxes for nails or staple damage
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Breaker handle is cracked but appears to operate normally.
+
+### Response:
+Fault: Damaged breaker — mechanical integrity compromised
+Cause: Physical impact or overtorque
+Action: Replace cracked breaker; damaged breakers may not operate correctly in fault conditions
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Light flickers when refrigerator door opens.
+
+### Response:
+Fault: Refrigerator interior light inrush affecting circuit
+Cause: Shared circuit with lighting; LED inrush or fluorescent starting
+Action: Usually minor; if significant check wire connections; consider dedicated fridge circuit
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New pendant light too heavy for current ceiling box.
+
+### Response:
+Fault: Fixture weight exceeds box rating
+Cause: Standard boxes rated 35-50 lbs; heavy fixtures require fan-rated boxes
+Action: Install fan-rated box with proper blocking; fan-rated boxes support up to 70+ lbs
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Control circuit runs at 24VDC — voltage drops to 18V under load.
+
+### Response:
+Fault: Power supply undersized or excessive resistance in control wiring
+Cause: Power supply rated too low for connected devices, or long wire run
+Action: Measure current draw; upgrade 24VDC supply; check wire gauge for control circuit length
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Factory machine vibrates excessively near 30Hz.
+
+### Response:
+Fault: Mechanical resonance at specific VFD output frequency
+Cause: Machine natural frequency matches 30Hz drive output
+Action: Program frequency skip (jump frequency) around 30Hz in VFD settings; avoid resonant speed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New dishwasher hardwired without disconnect switch.
+
+### Response:
+Fault: Code violation — hardwired appliances need accessible disconnect
+Cause: Appliance wired directly to circuit without disconnect
+Action: Install listed appliance disconnect within sight of appliance; junction box with lockable switch acceptable
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Service upgrade done but utility hasn't reconnected yet.
+
+### Response:
+Fault: Not a fault — utility reconnection pending
+Cause: Normal process after service upgrade
+Action: Verify permit and inspection passed; contact utility scheduling; do not energize until utility reconnects
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Overhead crane bridge motor won't travel one direction.
+
+### Response:
+Fault: Failed contactor or limit switch for that travel direction
+Cause: Overtravel limit switch engaged or travel contactor coil open
+Action: Inspect limit switch operation; test contactor coil voltage; check for mechanical interlock preventing direction
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage at secondary of isolation transformer different from calculated.
+
+### Response:
+Fault: Transformer tap not set correctly or load affecting output
+Cause: Tap setting not matched to primary voltage or regulation under load
+Action: Check and adjust transformer tap; measure primary vs secondary ratio; verify load is within rating
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Arc welder causes streetlight on same pole to dim.
+
+### Response:
+Fault: Welder current demand sapping utility transformer capacity
+Cause: Welder on same distribution transformer as street lighting
+Action: Utility issue — report; use larger wire to welder; consider power factor correction; operate welder at off-peak
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Expansion joint in conduit run missing — conduit cracked.
+
+### Response:
+Fault: Thermal expansion cracked rigid conduit
+Cause: No expansion fitting on long conduit run exposed to temperature extremes
+Action: Install expansion-deflection fitting; seal cracks or replace section; add fittings per NEC 352.44
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Occupancy sensor light activates in empty restroom.
+
+### Response:
+Fault: Ultrasonic sensor detecting air movement or HVAC
+Cause: High-frequency sensor picking up air turbulence from vents
+Action: Reduce sensitivity; switch to PIR (passive infrared) type; reposition sensor away from HVAC diffuser
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel fed by aluminum service entrance cable — no anti-oxidant.
+
+### Response:
+Fault: Oxidation risk at aluminum service entrance connections
+Cause: Aluminum oxide layer increasing resistance over time
+Action: Apply Noalox at all aluminum terminations; verify AL-rated lugs; torque to correct spec
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Power line worker sees conductor sparking at splicing sleeve.
+
+### Response:
+Fault: High-resistance splice on transmission or distribution line
+Cause: Splice sleeve improperly crimped or corroded
+Action: Utility work — de-energize line section; replace splice with properly crimped connector; this is utility scope
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Customer installed ceiling fan where only light fixture was before — switch doesn't control fan and light separately.
+
+### Response:
+Fault: Only one switched hot available — no separate fan/light control without additional wiring
+Cause: Single switch leg to box; fan needs two switch legs for independent control
+Action: Run additional switch wire; use wireless fan control; or use dual-function smart switch requiring neutral
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Generator remote start won't activate unit.
+
+### Response:
+Fault: Remote start wiring open or generator in manual mode
+Cause: Two-wire remote start circuit open, fuse blown, or unit in OFF/manual position
+Action: Verify generator is in AUTO; check continuity of remote start wires; test remote start terminals with jumper
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage dip every 15 minutes exactly.
+
+### Response:
+Fault: Cyclic load on system — likely large motor or equipment starting on timer
+Cause: Scheduled equipment (HVAC, compressor, dehumidifier) cycling on timer
+Action: Identify which load starts at that interval; check if voltage dip is acceptable; add soft-start if necessary
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wiring chase in concrete block wall cannot be accessed.
+
+### Response:
+Fault: Inaccessible wiring for inspection or repair
+Cause: Conduit embedded in masonry without pull boxes
+Action: Use fish tape from accessible ends; add junction boxes if rerouting; use pull box at accessible points
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+High-bay LED fixture won't turn on after cold night.
+
+### Response:
+Fault: Driver below minimum start temperature
+Cause: Some LED drivers rated for 0°C minimum; below this they won't start
+Action: Check driver temperature rating; install cold-rated driver; add enclosure heater if necessary
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Smoke from distribution board — fuse base discolored.
+
+### Response:
+Fault: Fuse base arcing — severe fault
+Cause: Fuse blowing under fault released arc energy or contact resistance arc
+Action: De-energize; replace fuse base and fuse; inspect bus for damage; find and clear the fault
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage reading on smart meter different from measured at panel.
+
+### Response:
+Fault: Measurement discrepancy — could be normal or indicate issue
+Cause: Smart meter measures at revenue point; panel voltage lower due to wire drop; or calibration difference
+Action: Compare both readings; difference should match calculated drop; excessive discrepancy — request meter test
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New home has no outdoor outlet.
+
+### Response:
+Fault: Code violation — NEC requires at least one outdoor GFCI outlet front and rear
+Cause: Incomplete installation
+Action: Install minimum one front and one rear GFCI outlet per NEC 210.52(E); weatherproof covers required
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Network switches rebooting during production shifts only.
+
+### Response:
+Fault: Power quality event during peak production
+Cause: Voltage sags from large motor starts or harmonic distortion during production
+Action: Install UPS for network equipment; measure power quality during production; isolate network power
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Fluorescent light in school classroom takes 5 minutes to reach full brightness.
+
+### Response:
+Fault: Old T12 magnetic ballast or cold fluorescent tube
+Cause: Magnetic ballast inefficient at low temperatures
+Action: Replace with electronic ballast or LED retrofit; electronic ballasts start instantly even in cold
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Both legs of dryer circuit show 120V to ground but only 120V between them.
+
+### Response:
+Fault: Both legs on same phase — not 240V
+Cause: Double-pole breaker not spanning both phases of panel
+Action: Move one breaker to opposite bus; 240V requires hots on opposite phases; should read 240V leg-to-leg
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric blanket trips GFCI when plugged in.
+
+### Response:
+Fault: Ground fault or high leakage in electric blanket
+Cause: Blanket wiring degraded or internal fault
+Action: Test blanket on non-GFCI; if it trips regular breaker blanket is faulty — discard; do not use damaged electric blanket
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Data center UPS bypass switch failed during maintenance.
+
+### Response:
+Fault: Bypass switch mechanism failed — critical system at risk
+Cause: Switch contacts fused, mechanism seized, or wrong operating procedure
+Action: Do not force switch; engage vendor support; transfer load carefully per maintenance bypass procedure
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Yard light timer not advancing — clock stuck.
+
+### Response:
+Fault: Mechanical timer motor failed or power interruption reset
+Cause: Timer motor burned out or clock reset to zero after power outage
+Action: Check 120V at timer; test timer motor continuity; replace timer with digital type with battery backup
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Breaker labeled water heater controls something else.
+
+### Response:
+Fault: Mislabeled panel — safety concern
+Cause: Circuits moved or rewired without updating directory
+Action: Use load identifier to confirm all circuit destinations; update panel directory accurately
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New construction: box not flush with finished drywall.
+
+### Response:
+Fault: Box set at wrong depth — code violation for flush installation
+Cause: Box set before drywall thickness was accounted for
+Action: Install box extender to bring device to flush; drywall surface must be within 1/8" of box edge per NEC 314.20
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Power quality analyzer shows voltage notching.
+
+### Response:
+Fault: Voltage notching from phase-controlled SCR equipment
+Cause: Rectifiers or SCR drives creating notches at commutation points
+Action: Install line reactor or isolation transformer upstream of sensitive equipment; separate power quality loads
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+EV charger installation requires 100A dedicated circuit.
+
+### Response:
+Fault: Not a fault — high-capacity EVSE specification
+Cause: 80A EVSE requires 100A circuit (125% rule for continuous load)
+Action: Verify panel capacity; run 1 AWG copper or 2/0 aluminum; install 100A breaker; check wire length for voltage drop
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+LED street light glowing dimly even when off.
+
+### Response:
+Fault: Leakage current through switch or driver ghost voltage
+Cause: Some LED drivers glow at low leakage current through off switch
+Action: Install load resistor across LED; replace with neutral-required switch; add bypass capacitor per manufacturer guidance
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outdoor outlet on GFCI shows "open ground" on tester.
+
+### Response:
+Fault: Ground conductor not connected at outdoor outlet
+Cause: Ground wire missing or not terminated
+Action: De-energize; connect ground wire to green screw; verify ground continuity to panel
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Single-phase motor gets very hot at no-load.
+
+### Response:
+Fault: Motor running on start winding continuously
+Cause: Centrifugal switch failed to open — run capacitor shorted — motor runs on start winding only
+Action: Test centrifugal switch; replace run capacitor; do not operate — start winding will burn out quickly
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Work light trips breaker only when moved to certain position.
+
+### Response:
+Fault: Internal short when cord flexed or light repositioned
+Cause: Damaged cord with intermittent short when bent
+Action: Inspect cord for damage at strain relief and plug; replace damaged cord or discard light
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Lightning protection conductor not bonded to electrical ground.
+
+### Response:
+Fault: Separate ground systems without bonding — shock hazard during strike
+Cause: Lightning ground and electrical ground not interconnected
+Action: Bond lightning protection ground to electrical grounding electrode system per NFPA 780
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Building has aluminum wiring from 1970s — selling home.
+
+### Response:
+Fault: Aluminum branch circuit wiring — known fire risk at connections
+Cause: 1965-1973 aluminum wiring prone to connection problems
+Action: Inspect all connections; use CO/ALR outlets and switches or AlumiConn pigtails; full rewire is best option; disclose to buyer
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Service panel has a ground rod but no ground wire to it.
+
+### Response:
+Fault: Ground electrode disconnected — code violation
+Cause: Wire corroded away, cut, or never installed
+Action: Run 6 AWG copper ground wire from panel ground bar to ground rod; protect with conduit where exposed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Conduit support spacing too far apart — sagging between supports.
+
+### Response:
+Fault: Code violation — NEC mandates maximum support spacing
+Cause: Insufficient supports installed
+Action: EMT: support every 10 feet and within 3 feet of box; rigid: every 10 feet; add supports as required
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Well pump running but no water pressure.
+
+### Response:
+Fault: Pump failure, pressure tank waterlogged, or broken pipe — mostly plumbing
+Cause: Pump impeller worn, pressure switch failed, or pipe break
+Action: Check pump pressure switch; test motor current; low current = impeller broken; call plumber for pipe/tank issues
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel room has no light or emergency lighting.
+
+### Response:
+Fault: Code violation — electrical rooms require adequate illumination
+Cause: Never installed or bulb burned out
+Action: Install lighting in electrical room; emergency lighting required by NEC 110.26(D) for service equipment rooms
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric car charger buzzes when charging at full rate.
+
+### Response:
+Fault: Normal transformer/reactor noise in EVSE unit
+Cause: Internal inductor or transformer vibrating at charging frequency
+Action: Verify charging current is within spec; if buzz is increasing over time inspect unit; some noise is normal
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Old meter socket has blackened jaws.
+
+### Response:
+Fault: Arcing at meter jaw — utility infrastructure failure
+Cause: Loose or corroded meter jaw contact causing sustained arc
+Action: Contact utility — meter base is theirs; do not pull meter; request inspection and replacement
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage measured at outlet is 0V — no breaker tripped.
+
+### Response:
+Fault: GFCI upstream tripped, or broken wire with intact breaker
+Cause: GFCI feeding this outlet tripped, or open conductor without overcurrent event
+Action: Check all GFCIs on same circuit; verify outlet wiring; use toner to trace circuit
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrician finds wire entering panel without a connector or bushing.
+
+### Response:
+Fault: Code violation — wire must enter box with listed fittings
+Cause: Improper installation
+Action: Install appropriate connector for wire/conduit type; protect wire insulation from sharp box edge
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Commercial refrigeration compressor draws locked rotor current.
+
+### Response:
+Fault: Mechanical lock — compressor seized
+Cause: Refrigerant slugging, loss of oil, or bearing failure
+Action: De-energize; test compressor rotation by hand if accessible; call refrigeration mechanic; do not repeatedly try to start
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+400A switchboard shows load imbalance across phases.
+
+### Response:
+Fault: Uneven load distribution across three phases
+Cause: Single-phase loads concentrated on one or two phases
+Action: Rebalance loads across all three phases; measure each phase current; aim for less than 10% imbalance
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Wire from switch has only one conductor plus ground — no neutral.
+
+### Response:
+Fault: Switch loop wiring — acceptable for traditional switches
+Cause: Classic switch loop has no neutral at switch box
+Action: Smart switches requiring neutral need additional wire run; use smart switch designed for no-neutral installation
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Motion detector triggers neighbor's outdoor light.
+
+### Response:
+Fault: Sensor range overlapping neighbor's property
+Cause: Sensitivity and range set too high
+Action: Reduce detection range; adjust sensor aim; add shroud to limit sensor field of view
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Residential range hood on 15A circuit trips breaker on high.
+
+### Response:
+Fault: Hood motor plus light exceeds 15A circuit capacity at high speed
+Cause: High-speed fan motor drawing near rated capacity
+Action: Dedicate 20A circuit to range hood; verify wiring is 12 AWG
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Dryer runs but takes extremely long to dry — heating element OK.
+
+### Response:
+Fault: Blocked vent or failed cycling thermostat
+Cause: Lint buildup in duct or thermostat cycling too low
+Action: Clean vent duct from dryer to exterior; test cycling thermostat continuity; check high-limit thermostat
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Surge protector destroyed every time lightning nearby.
+
+### Response:
+Fault: Point-of-use surge protectors unable to handle large surge energy
+Cause: Whole-house surge protection missing
+Action: Install whole-house Type 1 or Type 2 SPD at service entrance; point-of-use protectors as second layer
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Power to part of house back on after reset but smells burnt.
+
+### Response:
+Fault: Burned wiring or device — restore safely is not complete
+Cause: Arc or overload damaged insulation remains smoldering
+Action: De-energize again; locate source of odor; inspect all outlets and junction boxes; do not leave on unattended
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New LED retrofit flickers when dimmer is at 100%.
+
+### Response:
+Fault: LED driver oscillating at full output — no headroom
+Cause: Some LED dimmers require minimum load or have instability at extremes
+Action: Add dummy load resistor; try different LED brand; replace with LED-compatible dimmer
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Circuit breaker trips but no fault found after extensive testing.
+
+### Response:
+Fault: Nuisance trip from aging breaker or undetected intermittent
+Cause: Breaker thermal element weakened with age, or intermittent fault not captured by testing
+Action: Replace breaker as preventive measure; if new breaker also trips, install data logger to capture event
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Unidentified control relay energized — output unknown.
+
+### Response:
+Fault: Unknown control function — operational safety risk
+Cause: Undocumented relay in control system
+Action: Do not de-energize without knowing function; trace output wires; review any available schematics; observe machine state
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Ground wire connected to neutral bar in subpanel.
+
+### Response:
+Fault: Code violation — ground and neutral must be separated in subpanel
+Cause: Installer confused main panel bonding with subpanel wiring
+Action: Move ground conductors to separate isolated ground bar; ensure neutral bar is floating in subpanel
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Arc flash occurred during breaker racking operation.
+
+### Response:
+Fault: Arc flash event — serious incident
+Cause: Phase-to-phase or phase-to-ground fault during live switching
+Action: Ensure worker safety first; call emergency services if injury; document incident; do not energize; conduct arc flash investigation
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Photovoltaic array not producing despite clear sky.
+
+### Response:
+Fault: Inverter off, array disconnect open, or string fault
+Cause: Inverter sleep mode, DC disconnect open, or single shaded/failed module pulling string down
+Action: Check inverter status; verify all disconnects closed; review monitoring data per string; inspect modules
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Surge in electricity consumption on one 120V circuit — nothing new added.
+
+### Response:
+Fault: Load degrading and drawing more current, or partial fault
+Cause: Motor winding degraded increasing losses, or heating element partially failed and running longer
+Action: Identify each load on circuit; measure individual current draws; compare to nameplate
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Power outage, generator running — hardwired appliance still dead.
+
+### Response:
+Fault: Appliance not connected to generator side of ATS, or ATS didn't transfer
+Cause: Critical circuit not connected to generator panel, or ATS fault
+Action: Verify ATS transferred; check generator panel circuit for appliance; add to generator panel if needed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Customer's cat chewed through extension cord — mild shock reported.
+
+### Response:
+Fault: Damaged cord with exposed conductors — shock and fire hazard
+Cause: Animal damage
+Action: Discard damaged cord immediately; check customer for injury; do not repair chewed cords
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Condenser fan on HVAC runs backward in cooling mode.
+
+### Response:
+Fault: Fan rotation reversed — reduced cooling capacity
+Cause: Phase leads transposed on three-phase unit or capacitor wired incorrectly on single-phase
+Action: Three-phase: swap two leads; single-phase: reverse capacitor connection at fan motor; verify airflow direction
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrician finds no markings or ratings on breaker.
+
+### Response:
+Fault: Unidentified breaker — may not be listed for panel
+Cause: Marking worn off or counterfeit/non-listed breaker
+Action: Replace with properly marked, listed breaker for panel; do not use unidentified overcurrent devices
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Floor polisher trips breaker after 20 minutes.
+
+### Response:
+Fault: Motor overheating from dirty filter or overloaded circuit
+Cause: Blocked filter increasing motor load; or sustained near-trip current heating bimetal
+Action: Clean filter; reduce load on circuit; measure running current; replace motor brushes if worn
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Receptacle shared between outdoor and indoor in same box — one fails.
+
+### Response:
+Fault: Duplex outlet with one bad contact set
+Cause: One set of contacts worn or outlet internally failed
+Action: Replace duplex outlet; outdoor-accessible outlets must be GFCI rated; check box rating for wet location
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Neutral conductor runs separately from hot — not in same raceway.
+
+### Response:
+Fault: Code violation — current-carrying conductors must be in same raceway
+Cause: Magnetic induction problem and code violation
+Action: Pull hot and neutral through same conduit; separated conductors cause induction heating in metallic raceway
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric kiln won't reach target temperature.
+
+### Response:
+Fault: Failed elements, thermocouple, or controller
+Cause: One or more elements open; thermocouple reading incorrectly; or controller set incorrectly
+Action: Test each element resistance; test thermocouple output; verify controller program; replace failed elements
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+VFD shows undervoltage fault during utility sag.
+
+### Response:
+Fault: Utility voltage sag dropping below VFD minimum input
+Cause: Voltage dip from large loads or utility regulation
+Action: Install line reactor or DC bus choke to ride through sags; adjust VFD undervoltage trip threshold if adjustable
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Conduit drops visible rust on equipment below.
+
+### Response:
+Fault: Corroded conduit losing integrity
+Cause: Water infiltration into conduit corroding steel EMT or RMC
+Action: Seal conduit entries; replace corroded section; consider PVC-coated conduit in wet areas; clean equipment of rust
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Trough wiring in industrial plant has no support over long horizontal run.
+
+### Response:
+Fault: Wireway/trough not properly supported
+Cause: Supports missing or too far apart
+Action: Support wireway every 5 feet and within 3 feet of box per NEC 376.30; add supports
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrician accidentally energizes circuit while coworker working on it.
+
+### Response:
+Fault: Lockout/Tagout failure — serious safety incident
+Cause: LOTO procedure not followed
+Action: Immediately de-energize; check worker for injury; document incident; review and enforce LOTO procedures; OSHA reportable if injury
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Battery bank for solar storage reads low voltage despite full sun.
+
+### Response:
+Fault: Charging path fault or battery sulfation
+Cause: Charge controller fault, connection resistance, or battery degraded
+Action: Test charge controller output; measure voltage at battery terminals vs controller output; test individual cells if accessible
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New subpanel has no ground bar installed.
+
+### Response:
+Fault: Code violation — subpanel requires isolated ground bar
+Cause: Installer oversight
+Action: Install separate isolated ground bar; connect equipment grounds to ground bar; neutral bar must float
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Owner says panel makes popping sound occasionally.
+
+### Response:
+Fault: Intermittent arcing at breaker or connection
+Cause: Loose terminal, failing breaker, or overloaded circuit arcing
+Action: Schedule immediate inspection; de-energize and inspect all connections; replace any damaged breakers; do not ignore
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrical panel not plumb or level — tilted on wall.
+
+### Response:
+Fault: Improper mounting — may affect breaker operation
+Cause: Incorrectly installed mounting
+Action: Remount panel plumb and level; some breakers require vertical mounting; check manufacturer requirements
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Customer presses GFCI test button but breaker doesn't trip.
+
+### Response:
+Fault: GFCI non-functional or test button pressed on unprotected outlet
+Cause: GFCI failed, or test button being pressed on outlet not connected to a GFCI
+Action: Test with GFCI tester; if test button doesn't trip, GFCI is failed — replace immediately
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New 200A service upgrade panel has no knockouts removed — wires entering through open gap.
+
+### Response:
+Fault: Code violation — conductors must enter through listed fittings
+Cause: Installer failed to remove proper knockouts and install connectors
+Action: Remove proper knockouts; install listed cable connectors for each cable entry; seal unused openings
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Security light activates at sunrise instead of turning off.
+
+### Response:
+Fault: Photocell wired to energize on light (fail-on) or photocell polarity reversed
+Cause: Photocell installed inverted — activates at light instead of darkness
+Action: Rotate or replace photocell; verify photocell type matches circuit (NC vs NO); replace if internally failed
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Motor replacement — new motor won't fit existing mounting bracket.
+
+### Response:
+Fault: Frame size mismatch between old and new motor
+Cause: Different NEMA frame size on replacement
+Action: Verify NEMA frame (56, 143T, 145T, 182T etc.); order correct frame; or adapt mounting bracket
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel breaker trips during startup of new commercial refrigerator.
+
+### Response:
+Fault: Breaker too small for compressor LRA (Locked Rotor Amperes)
+Cause: Breaker sized for FLA only; LRA during start trips breaker
+Action: Check nameplate for MCA and MOCP; resize breaker to MOCP listed on nameplate; never exceed MOCP
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Voltage at panel is 124V but drops to 108V at workshop 150 feet away.
+
+### Response:
+Fault: Excessive voltage drop on undersized feeder
+Cause: Long run with undersized wire creating 13% drop — too high
+Action: Upgrade to larger wire gauge; use voltage drop calculator; target under 3% drop for feeders
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Capacitor bank overheating in power factor correction system.
+
+### Response:
+Fault: Capacitor bank overloaded or harmonic resonance
+Cause: Harmonic currents amplified at capacitor tuning frequency
+Action: De-energize bank; measure harmonic content; install detuning reactor; verify capacitor rating matches supply
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Customer reports burning smell only when furnace first starts in season.
+
+### Response:
+Fault: Dust burning off heat exchanger — usually normal
+Cause: Accumulated summer dust burning off first heat cycle
+Action: Advise customer this is normal; if smell persists investigate; check air filter; inspect heat exchanger for cracks
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New circuit installed in finished basement — no permit pulled.
+
+### Response:
+Fault: Unpermitted electrical work
+Cause: Owner or contractor bypassed permit process
+Action: Advise permit is required; inspect work for code compliance; recommend retroactive permit or correction
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Motor control center bucket won't plug into bus.
+
+### Response:
+Fault: Alignment issue or wrong bucket for MCC
+Cause: Bucket from different manufacturer or damaged stabs
+Action: Verify bucket compatibility with MCC bus; inspect stabs for damage; realign before forcing
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+CO detector alarms after new gas range installed.
+
+### Response:
+Fault: Gas range producing CO from incomplete combustion or faulty burner
+Cause: Burner not adjusted correctly, blocked flue, or defective appliance
+Action: EVACUATE; ventilate; call gas company and fire department; do not use range until inspected
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Breaker labeled but controls circuits not matching description.
+
+### Response:
+Fault: Mislabeled panel directory
+Cause: Circuits rewired or added without updating directory
+Action: Systematically retrace all circuits; update directory; use plug-in circuit tracer for quick identification
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Generator fuel tank empty — ATS transferred but no power.
+
+### Response:
+Fault: Generator failed to run — fuel exhausted
+Cause: Fuel tank ran dry during extended outage
+Action: Refuel generator; restart; check automatic fuel level alarm; install larger fuel tank or auto-fill
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Branch circuit wire spliced in wall cavity without junction box.
+
+### Response:
+Fault: Code violation — all splices require accessible junction box
+Cause: Improper splice location
+Action: Open wall; install proper junction box at splice; ensure box is accessible; secure cover
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outdoor security camera loses power in extreme cold.
+
+### Response:
+Fault: Power supply or PoE injector below minimum operating temperature
+Cause: Equipment not rated for outdoor temperature extremes
+Action: Install camera power supply indoors; use outdoor-rated PoE switch; heat tape for exposed cables in freeze zones
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Distribution transformer humming loudly after voltage regulator change.
+
+### Response:
+Fault: Transformer energized at higher than rated voltage
+Cause: Voltage regulator set too high — transformer saturating core
+Action: Verify transformer voltage ratio; adjust regulator to correct output; transformer should not run above rated +5%
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Homeowner added 15A breaker to 20A circuit wire.
+
+### Response:
+Fault: No fault — 15A breaker on 12 AWG wire is acceptable and conservative
+Cause: 12 AWG rated 20A; 15A breaker provides better protection
+Action: Acceptable per NEC; breaker is simply more conservative; no action needed unless load requires 20A
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Neon sign transformer produces correct voltage but sign dim.
+
+### Response:
+Fault: Failing neon tube gas pressure or electrode degradation
+Cause: Gas leaking from tube or electrode coating worn
+Action: Test transformer with different tube; if transformer OK the tube needs re-gassing or replacement
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Elevator machine room has inadequate lighting.
+
+### Response:
+Fault: Code violation — machine rooms require minimum illumination
+Cause: Burned out bulbs or insufficient fixture count
+Action: Restore lighting immediately; elevator machine rooms require minimum 19 fc at floor level per ASME A17.1
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Recessed can light in shower not rated for damp/wet location.
+
+### Response:
+Fault: Code violation — shower fixtures must be wet-location rated
+Cause: Wrong fixture type installed
+Action: Replace with IC-rated, wet-location listed recessed fixture; seal to prevent moisture entry above ceiling
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Data center PDU shows phase C overloaded while A and B are light.
+
+### Response:
+Fault: Unbalanced load distribution in data center
+Cause: Servers connected predominantly to phase C circuits
+Action: Redistribute equipment loads evenly across all three phases; use PDU monitoring to balance
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Hospital nurse call system not activating at main station.
+
+### Response:
+Fault: Communication fault between room and station — specialized system
+Cause: Wire fault, failed interface module, or software issue
+Action: Escalate to nurse call system vendor; document each failed station; this is specialized low-voltage work
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Circuit tester shows reversed hot and neutral on new outlet.
+
+### Response:
+Fault: Reversed polarity — hot connected to wide (neutral) slot
+Cause: Wiring error at outlet
+Action: De-energize; swap hot and neutral wires at outlet; hot goes to brass/narrow; neutral to silver/wide
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Thermocouple reading incorrect on industrial oven.
+
+### Response:
+Fault: Thermocouple failed, wrong type, or extension wire polarity reversed
+Cause: Type J vs Type K mismatch, or reversed thermocouple leads
+Action: Verify thermocouple type matches controller input; check polarity; replace thermocouple if out of spec
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric panel warm to touch on one side only.
+
+### Response:
+Fault: One phase or section of panel overloaded
+Cause: Heavy loads concentrated on one bus leg
+Action: Measure current on both legs; rebalance loads; investigate any unusually high individual circuits
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet works intermittently — connection type unknown.
+
+### Response:
+Fault: Intermittent connection at outlet or upstream
+Cause: Likely back-stab connection failing intermittently
+Action: De-energize; replace outlet using screw terminals only; never use back-stab connections
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Photovoltaic system not passing interconnection inspection.
+
+### Response:
+Fault: Utility interconnection requirements not met
+Cause: Missing rapid shutdown, labeling, or disconnect requirements
+Action: Install rapid shutdown system per NEC 690.12; add all required labels; verify utility interconnection checklist
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Attic fan motor runs but makes grinding noise.
+
+### Response:
+Fault: Worn motor bearings
+Cause: Lack of lubrication or bearing end-of-life
+Action: Oil motor bearings if serviceable; if sealed bearing type replace motor; grinding indicates imminent failure
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Unknown cause: outlet tests correct but plugged-in clock runs fast.
+
+### Response:
+Fault: High frequency on line or unusual power quality — rare
+Cause: Frequency above 60Hz (unusual) or internal clock circuit issue
+Action: Check frequency with power quality meter; likely appliance issue; verify with second clock; rare utility frequency issue
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Substation shows low power factor of 0.72 — utility billing penalty.
+
+### Response:
+Fault: Low power factor — reactive power penalty from utility
+Cause: Large inductive motor loads without compensation
+Action: Install power factor correction capacitors; target PF above 0.95; survey all motor loads for compensation
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric car shows charging error on Level 1 outlet.
+
+### Response:
+Fault: GFCI trip, low voltage, or EVSE communication error
+Cause: Outlet GFCI tripped, extension cord causing voltage drop, or pilot signal issue
+Action: Reset outlet GFCI; avoid extension cords for EV charging; test outlet voltage under load; test with different outlet
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Panel has old fused disconnect with 25A fuses on 12 AWG wire.
+
+### Response:
+Fault: Fuse oversized for conductor — fire hazard
+Cause: Incorrect fuse size; 12 AWG rated 20A maximum
+Action: Replace 25A fuses with 20A; fuse must match or be smaller than conductor ampacity
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Infrared scan of panel shows no anomalies but burning smell persists.
+
+### Response:
+Fault: Fault may be intermittent or behind panel in inaccessible area
+Cause: Arcing occurring only under specific load or time conditions not present during scan
+Action: Conduct thermal scan under full load; inspect wiring behind drywall if smell localized; install continuous fault monitor
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Building energy audit shows large unaccounted load after hours.
+
+### Response:
+Fault: Unknown load running continuously — energy waste or unauthorized use
+Cause: Unknown equipment, leaking current path, or billing error
+Action: Sub-meter individual circuits; audit after hours with clamp meter on each circuit; identify mystery load
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Three-phase system neutral carries more current than any phase.
+
+### Response:
+Fault: High harmonic currents (especially 3rd harmonic) on neutral
+Cause: Many single-phase nonlinear loads (computers, VFDs, LED drivers) generating triplen harmonics
+Action: Derate neutral to double conductor size; install K-rated transformer; add harmonic filters on major loads
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Outlet sparks then works normally after plug is inserted.
+
+### Response:
+Fault: Inrush current spark on insertion — may be normal for high-load devices
+Cause: Capacitive inrush from switching power supplies causes momentary arc on contact
+Action: If spark is very brief and small — normal; if sustained or large — replace outlet; check load for fault
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Air handler blower motor runs backward after belt replacement.
+
+### Response:
+Fault: Motor rotation reversed after maintenance
+Cause: Single-phase motor reconnected incorrectly at terminal strip
+Action: Swap start winding leads at terminal strip; verify correct airflow direction before closing unit
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Customer installed ceiling light — first time energizing caused sparks in box.
+
+### Response:
+Fault: Wiring error causing short circuit at fixture
+Cause: Crossed hot and neutral, or bare ground touching hot
+Action: De-energize; verify correct connections; hot to black, neutral to white, ground to green/bare; clear any shorts
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Kitchen island outlet has no GFCI protection.
+
+### Response:
+Fault: Code violation — all kitchen countertop outlets require GFCI
+Cause: Island outlet missed in original GFCI installation
+Action: Install GFCI outlet or protect from GFCI breaker; all countertop receptacles within 6 feet of sink require GFCI
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Spa panel GFCI main breaker trips when heater element turns on.
+
+### Response:
+Fault: Ground fault in spa heater element
+Cause: Element insulation failed allowing leakage to ground
+Action: Isolate heater; test element insulation resistance; replace element if leakage detected
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electrician cannot locate the neutral for a circuit.
+
+### Response:
+Fault: Neutral missing or routed separately
+Cause: Previous wiring modification lost neutral routing
+Action: Use tone tracer on neutral wire; check all junction boxes on circuit; verify neutral is in same cable as hot
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Whole-house generator runs but voltage reads only 90V.
+
+### Response:
+Fault: Failed AVR, shorted exciter winding, or lost residual magnetism
+Cause: AVR failure or generator demagnetized
+Action: Flash field with 12V DC; test AVR output; replace AVR if faulty; check exciter winding resistance
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Commercial tenant installs own panel without landlord or permit.
+
+### Response:
+Fault: Unpermitted work — legal and safety issue
+Cause: Tenant bypassed required permits and approval
+Action: Document; notify landlord; contact AHJ; de-energize if unsafe; work must be inspected and permitted
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Smart meter installed but homeowner reports TV interference.
+
+### Response:
+Fault: Smart meter RF transmission causing EMI on TV
+Cause: Meter transmitter interfering with nearby electronics
+Action: Contact utility — smart meter EMI is their responsibility; shielded power strip may help; FCC complaint if persistent
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Electric shock received touching stainless steel kitchen sink.
+
+### Response:
+Fault: Voltage on plumbing — equipment grounding fault
+Cause: Faulty appliance near sink leaking voltage to ground through plumbing
+Action: Measure voltage sink-to-ground; identify leaking appliance by disconnecting one at a time; repair or replace faulty appliance
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Control transformer primary fuse blows on energization.
+
+### Response:
+Fault: Short circuit on secondary, or inrush too high for fuse
+Cause: Shorted control device or fuse too small for transformer inrush
+Action: Test secondary circuit for short; use slow-blow fuse rated for transformer inrush; verify transformer VA rating
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+Old residential fuse box — 30A fuses on lighting circuits.
+
+### Response:
+Fault: Oversized fuse for lighting circuit — fire hazard
+Cause: Previous owner upsized fuses to stop tripping
+Action: Replace with 15A fuses for lighting circuits; correct original overload instead of upsizing fuse
+
+---
+
+### Instruction:
+Answer the electrician query
+
+### Input:
+New building not grounded to water pipe — only ground rod used.
+
+### Response:
+Fault: Incomplete grounding electrode system
+Cause: Metal water pipe must be included in electrode system if metallic and 10+ feet buried
+Action: Bond metal water pipe within 5 feet of entry per NEC 250.52; use ground clamp listed for water pipe
+
+---
+
