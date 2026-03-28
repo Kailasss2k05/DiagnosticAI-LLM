@@ -1,0 +1,15 @@
+# Models
+*.gguf
+*.bin
+*.safetensors
+*.zip
+
+# Training outputs
+lora_adapter/
+merged_model/
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
