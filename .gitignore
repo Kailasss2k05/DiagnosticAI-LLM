@@ -2,14 +2,36 @@
 *.gguf
 *.bin
 *.safetensors
+*.pt
+*.pth
 *.zip
+model/
 
 # Training outputs
 lora_adapter/
 merged_model/
 output/
+training/
+
+# llama.cpp build artifacts
+llama.cpp/build/
 
 # Python
 __pycache__/
 *.pyc
+*.pyo
+*.egg-info/
+dist/
 .venv/
+venv/
+
+# Environment & secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
